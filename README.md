@@ -2,12 +2,12 @@
 ---
 A comprehensive, factual resource hub for anyone interested in learning about the Solana blockchain and its underlying technology.
 
--[Introduction and Overview](#introduction-and-overview)
--[Technical Deep Dives](#technical-deep-dives)
--[Developer Resources](#developer-resources)
--[Case Studies and Analysis](#case-studies-and-analysis)
--[Future of Solana](#future-of-solana)
--[Accessible Explainers](#accessible-explainers)
+- [Introduction and Overview](#introduction-and-overview)
+- [Technical Deep Dives](#technical-deep-dives)
+- [Developer Resources](#developer-resources)
+- [Case Studies and Analysis](#case-studies-and-analysis)
+- [Future of Solana](#future-of-solana)
+- [Accessible Explainers](#accessible-explainers)
 
 ## Introduction and Overview
 | Title                        | Type    | Author           | Link | Description |
