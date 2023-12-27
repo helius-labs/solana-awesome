@@ -48,7 +48,7 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 | A Dummy’s Guide to Solana’s Architecture | Article | Anvit         | [Link](https://anvit.hashnode.dev/a-dummys-guide-to-solana-architecture) | An overview of Solana's architecture. |
 | Local Fee Markets on Solana             | Thread | 7Layer        | [Link](https://twitter.com/7LayerMagik/status/1615569374647287808) | Deep dive into what fee markets are and how they work. |
 
-# Contributing to the Solana Blockchain Repository
+# Contributing to the solana-awesome Repository
 
 We welcome contributions from everyone who is interested in adding valuable information and research about the Solana blockchain. Below are the guidelines for contributing to this repository.
 
