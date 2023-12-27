@@ -33,7 +33,7 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 ## Case Studies and Analysis
 | Title                           | Type    | Author       | Link | Description |
 |:---------------------------------|:---------|:--------------|:------|:-------------|
-| Firedancer Reliability Efforts  | Analysis | Jump Crypto  | [Link](https://jumpcrypto.com/writing/firedancer-reliability/) | Analysis of past Solana outages and Firedancer's role. |
+| Firedancer Reliability Efforts  | Article | Jump Crypto  | [Link](https://jumpcrypto.com/writing/firedancer-reliability/) | Analysis of past Solana outages and Firedancer's role. |
 | Transaction Confirmations       | Article | Jstarry      | [Link](https://jstarry.notion.site/Transaction-confirmation-d5b8f4e09b9c4a70a1f263f82307d7ce) | Deep dive into the transaction confirmation process. |
 
 ## Future of Solana
@@ -47,3 +47,55 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 |:----------------------------------------|:---------|:---------------|:------|:-------------|
 | A Dummy’s Guide to Solana’s Architecture | Article | Anvit         | [Link](https://anvit.hashnode.dev/a-dummys-guide-to-solana-architecture) | An overview of Solana's architecture. |
 | Local Fee Markets on Solana             | Thread | 7Layer        | [Link](https://twitter.com/7LayerMagik/status/1615569374647287808) | Deep dive into what fee markets are and how they work. |
+
+# Contributing to the Solana Blockchain Repository
+
+We welcome contributions from everyone who is interested in adding valuable information and research about the Solana blockchain. Below are the guidelines for contributing to this repository.
+
+## How to Contribute
+
+1. **Fork the Repository**: Click the 'Fork' button on the top right of this page to create your own copy of this repository.
+
+2. **Clone Your Fork**: Clone the forked repository to your local machine. You can do this by running:
+
+```
+git clone https://github.com/helius-labs/solana-awesome.git
+```
+
+3. **Create a New Branch**: Before making any changes, create a new branch with a relevant name. For example:
+
+
+4. **Make Your Changes**: Add or update content in the repository. Ensure you follow the content guidelines mentioned below.
+
+5. **Commit Your Changes**: Once you've made your changes, commit them with a clear and descriptive message. For example:
+
+```
+git commit -m "Add article on Solana's consensus mechanism"
+```
+
+6. **Push to Your Fork**: Push the changes to your forked repository.
+
+```
+git push origin add-solana-research-article
+
+```
+
+7. **Submit a Pull Request**: Go back to the original repository, and you'll see a 'Compare & pull request' button. Click on it, fill in the details, and submit your pull request.
+
+## Content Guidelines
+
+- **Relevance**: Ensure all content is directly related to the Solana blockchain.
+- **Accuracy**: All factual information must be accurate and well-researched.
+- **Originality**: Content should be original or properly attributed to its source.
+- **Clarity**: Write in a clear, concise, and understandable manner.
+- **Formatting**: Use Markdown formatting to ensure the content is readable and well-organized.
+
+## Review Process
+
+Once you submit your pull request, it will be reviewed by the repository maintainers. We may provide feedback or request changes if necessary. Once approved, your contribution will be merged into the repository.
+
+## Questions or Suggestions
+
+If you have any questions or suggestions about contributing, feel free to open an issue in this repository.
+
+Thank you for your interest in contributing to the Solana Blockchain Repository!
