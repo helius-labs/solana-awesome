@@ -14,6 +14,7 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 | Title                        | Type    | Author           | Link | Description |
 |:------------------------------|:---------|:------------------|:------|:-------------|
 | The Solana Programming Model                | Article | 0xIchigo  | [Link](https://www.helius.dev/blog/the-solana-programming-model-an-introduction-to-developing-on-solana) | This article explores Solana's architecture, account model, and transaction mechanics. |
+| Programming on Solana, An Introduction | Article | Paul X       | [Link](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/) | Introductory post on Solana programming. |
 
 
 ## Opinion and Essays
@@ -33,7 +34,6 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 ## Developer Resources
 | Title                                | Type    | Author       | Link | Description |
 |:--------------------------------------|:---------|:--------------|:------|:-------------|
-| Programming on Solana, An Introduction | Article | Paul X       | [Link](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/) | Introductory post on Solana programming. |
 | Create Your First Solana dApp         | Tutorial | Loris Leiva  | [Link](https://lorisleiva.com/create-a-solana-dapp-from-scratch) | Easy tutorial on writing Solana programs. |
 | The Solana Cookbook                   | Docs   | Solana Cookbook Team | [Link](https://solanacookbook.com/#contributing) | Cookbook for Solana developers. |
 
@@ -46,7 +46,7 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 ## Future of Solana
 | Title                                  | Type       | Author  | Link | Description |
 |:----------------------------------------|:------------|:---------|:------|:-------------|
-| The All Comprehensive Guide to Solana 2.0 | Article   | 0xIchigo  | [Link](https://www.helius.dev/blog/what-is-firedancer) | Deep dive on Solana's future developments. |
+| What is Firedancer? A Deep Dive into Solana 2.0 | Article   | 0xIchigo  | [Link](https://www.helius.dev/blog/what-is-firedancer) | Deep dive on Solana's future developments. |
 | State Compression on Solana             | Whitepaper | Various | [Link](https://drive.google.com/file/d/1BOpa5OFmara50fTvL0VIVYjtg-qzHCVc/view) | Whitepaper on the theory behind state compression. |
 
 ## Accessible Explainers
