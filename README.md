@@ -26,6 +26,7 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 ## Technical Deep Dives
 | Title                        | Type    | Author           | Link | Description |
 |:------------------------------|:---------|:------------------|:------|:-------------|
+| Architecture for a High Performance Blockchain      | Whitepaper | Anatoly Yakovenko  | [Link](https://solana.com/solana-whitepaper.pdf) | Proposal of a new blockchain architecture. |
 | Proof of History Primer      | Article | Shinobi Systems  | [Link](https://www.shinobi-systems.com/primer.html) | Easily digestible deep-dive into Proof of History. |
 | Transaction Processing on Solana | Article | Jito Labs      | [Link](https://jito-labs.medium.com/solana-validator-101-transaction-processing-90bcdc271143) | Deep dive into validator internals and transaction processing. |
 | Solana Internals             | Article | Sec3             | [Link](https://www.sec3.dev/blog/solana-internals-part-1-what-are-the-native-on-chain-programs-and-why-do-they-matter) | Series deep-diving into Solana internals. |
