@@ -46,7 +46,7 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 ## Future of Solana
 | Title                                  | Type       | Author  | Link | Description |
 |:----------------------------------------|:------------|:---------|:------|:-------------|
-| The All Comprehensive Guide to Solana 2.0 | Article   | Helius  | [Link](https://www.helius.dev/blog/what-is-firedancer) | Deep dive on Solana's future developments. |
+| The All Comprehensive Guide to Solana 2.0 | Article   | 0xIchigo  | [Link](https://www.helius.dev/blog/what-is-firedancer) | Deep dive on Solana's future developments. |
 | State Compression on Solana             | Whitepaper | Various | [Link](https://drive.google.com/file/d/1BOpa5OFmara50fTvL0VIVYjtg-qzHCVc/view) | Whitepaper on the theory behind state compression. |
 
 ## Accessible Explainers
