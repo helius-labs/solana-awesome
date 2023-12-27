@@ -30,18 +30,21 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 | Proof of History Primer      | Article | Shinobi Systems  | [Link](https://www.shinobi-systems.com/primer.html) | Easily digestible deep-dive into Proof of History. |
 | Transaction Processing on Solana | Article | Jito Labs      | [Link](https://jito-labs.medium.com/solana-validator-101-transaction-processing-90bcdc271143) | Deep dive into validator internals and transaction processing. |
 | Solana Internals             | Article | Sec3             | [Link](https://www.sec3.dev/blog/solana-internals-part-1-what-are-the-native-on-chain-programs-and-why-do-they-matter) | Series deep-diving into Solana internals. |
+| Mobile dApp Architecture         | Docs    | Mike Sulistio   | [Link](https://docs.solanamobile.com/getting-started/mobile-dapp-architecture) | An overview of mobile dApp architecture with the Mobile Wallet Adapter protocol. |
 
 ## Developer Resources
 | Title                                | Type    | Author       | Link | Description |
 |:--------------------------------------|:---------|:--------------|:------|:-------------|
 | Create Your First Solana dApp         | Tutorial | Loris Leiva  | [Link](https://lorisleiva.com/create-a-solana-dapp-from-scratch) | Easy tutorial on writing Solana programs. |
 | The Solana Cookbook                   | Docs   | Solana Cookbook Team | [Link](https://solanacookbook.com/#contributing) | Cookbook for Solana developers. |
+| Solana Mobile Developer Docs          | Docs   | Solana Mobile Team | [Link](https://docs.solanamobile.com/) | Comprehensive resources for mobile development on Solana. |
 
 ## Case Studies and Analysis
 | Title                           | Type    | Author       | Link | Description |
 |:---------------------------------|:---------|:--------------|:------|:-------------|
 | Firedancer Reliability Efforts  | Article | Jump Crypto  | [Link](https://jumpcrypto.com/writing/firedancer-reliability/) | Analysis of past Solana outages and Firedancer's role. |
 | Transaction Confirmations       | Article | Jstarry      | [Link](https://jstarry.notion.site/Transaction-confirmation-d5b8f4e09b9c4a70a1f263f82307d7ce) | Deep dive into the transaction confirmation process. |
+| Key custody on iOS             | Article | Mike Sulistio | [Link](https://docs.solanamobile.com/blog/ios-wallet-signing)                                 | Deep dive into the patterns and challenges of key custody on iOS. |
 
 ## Future of Solana
 | Title                                  | Type       | Author  | Link | Description |
