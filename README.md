@@ -3,6 +3,7 @@
 A comprehensive, factual resource hub for anyone interested in learning about the Solana blockchain and its underlying technology.
 
 - [Introduction and Overview](#introduction-and-overview)
+- [Opinion and Essays](#opinion-and-essays)
 - [Technical Deep Dives](#technical-deep-dives)
 - [Developer Resources](#developer-resources)
 - [Case Studies and Analysis](#case-studies-and-analysis)
@@ -10,6 +11,12 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 - [Accessible Explainers](#accessible-explainers)
 
 ## Introduction and Overview
+| Title                        | Type    | Author           | Link | Description |
+|:------------------------------|:---------|:------------------|:------|:-------------|
+| The Solana Programming Model                | Article | 0xIchigo  | [Link](https://www.helius.dev/blog/the-solana-programming-model-an-introduction-to-developing-on-solana) | This article explores Solana's architecture, account model, and transaction mechanics. |
+
+
+## Opinion and Essays
 | Title                        | Type    | Author           | Link | Description |
 |:------------------------------|:---------|:------------------|:------|:-------------|
 | Solana Summer                | Article | Packy McCormick  | [Link](https://www.notboring.co/p/solana-summer) | Comprehensive and engaging read about Solana's story. |
@@ -47,6 +54,8 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 |:----------------------------------------|:---------|:---------------|:------|:-------------|
 | A Dummy’s Guide to Solana’s Architecture | Article | Anvit         | [Link](https://anvit.hashnode.dev/a-dummys-guide-to-solana-architecture) | An overview of Solana's architecture. |
 | Local Fee Markets on Solana             | Thread | 7Layer        | [Link](https://twitter.com/7LayerMagik/status/1615569374647287808) | Deep dive into what fee markets are and how they work. |
+
+
 
 # Contributing to the solana-awesome Repository
 
