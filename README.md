@@ -62,12 +62,13 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 
 ## Accessible Explainers
 
-| Title                                                      | Type    | Author    | Link                                                                                                               | Description                                            |
-| :--------------------------------------------------------- | :------ | :-------- | :----------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
-| A Dummy’s Guide to Solana’s Architecture                   | Article | Anvit     | [Link](https://anvit.hashnode.dev/a-dummys-guide-to-solana-architecture)                                           | An overview of Solana's architecture.                  |
-| Local Fee Markets on Solana                                | Thread  | 7Layer    | [Link](https://twitter.com/7LayerMagik/status/1615569374647287808)                                                 | Deep dive into what fee markets are and how they work. |
-| How to Mint Solana Compressed NFTs (cNFTs) with TypeScript | Article | kishi.sol | [Link](https://medium.com/@KishiTheMechanic/how-to-mint-solana-compressed-nfts-cnfts-with-typescript-be9d0fa7ce30) | A step-by-step guide on how to mint cNFTs.             |
-| Implementing "Sign In With Solana"(SIWS)                   | Article | kishi.sol | [Link](https://medium.com/@KishiTheMechanic/implementing-sign-in-with-solana-siws-ce35dadeda31)                    | A step-by-step guide on how to implement SIWS.         |
+| Title                                                                      | Type    | Author    | Link                                                                                                                               | Description                                            |
+| :------------------------------------------------------------------------- | :------ | :-------- | :--------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
+| A Dummy’s Guide to Solana’s Architecture                                   | Article | Anvit     | [Link](https://anvit.hashnode.dev/a-dummys-guide-to-solana-architecture)                                                           | An overview of Solana's architecture.                  |
+| Local Fee Markets on Solana                                                | Thread  | 7Layer    | [Link](https://twitter.com/7LayerMagik/status/1615569374647287808)                                                                 | Deep dive into what fee markets are and how they work. |
+| How to Mint Solana Compressed NFTs (cNFTs) with TypeScript                 | Article | kishi.sol | [Link](https://medium.com/@KishiTheMechanic/how-to-mint-solana-compressed-nfts-cnfts-with-typescript-be9d0fa7ce30)                 | A step-by-step guide on how to mint cNFTs.             |
+| Implementing "Sign In With Solana"(SIWS)                                   | Article | kishi.sol | [Link](https://medium.com/@KishiTheMechanic/implementing-sign-in-with-solana-siws-ce35dadeda31)                                    | A step-by-step guide on how to implement SIWS.         |
+| Tips for Minting Multiple Compressed NFTs (cNFTs) Simultaneously on Solana | Article | kishi.sol | [Link](https://medium.com/@KishiTheMechanic/tips-for-minting-multiple-compressed-nfts-cnfts-simultaneously-on-solana-4e01e06bae00) | Tips for minting multiple cNFTs simultaneously.        |
 
 # Contributing to the solana-awesome Repository
 
