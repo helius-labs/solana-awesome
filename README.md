@@ -8,7 +8,7 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 - [Technical Deep Dives](#technical-deep-dives)
 - [Developer Resources](#developer-resources)
 - [Case Studies and Analysis](#case-studies-and-analysis)
-- [Future of Solana](#future-of-solana)
+- [The Future of Solana](#the-future-of-solana)
 - [Accessible Explainers](#accessible-explainers)
 
 ## Introduction and Overview
@@ -65,12 +65,12 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 | Transaction Confirmations      | Article | Jstarry       | [Link](https://jstarry.notion.site/Transaction-confirmation-d5b8f4e09b9c4a70a1f263f82307d7ce) | Deep dive into the transaction confirmation process.              |
 | Key custody on iOS             | Article | Mike Sulistio | [Link](https://docs.solanamobile.com/blog/ios-wallet-signing)                                 | Deep dive into the patterns and challenges of key custody on iOS. |
 
-## Future of Solana
+## The Future of Solana
 
-| Title                                           | Type       | Author   | Link                                                                           | Description                                        |
-| :---------------------------------------------- | :--------- | :------- | :----------------------------------------------------------------------------- | :------------------------------------------------- |
-| What is Firedancer? A Deep Dive into Solana 2.0 | Article    | 0xIchigo | [Link](https://www.helius.dev/blog/what-is-firedancer)                         | Deep dive on Solana's future developments.         |
-| State Compression on Solana                     | Whitepaper | Various  | [Link](https://drive.google.com/file/d/1BOpa5OFmara50fTvL0VIVYjtg-qzHCVc/view) | Whitepaper on the theory behind state compression. |
+| Title                                          | Type    | Author(s)          | Link                                                         | Description                                                                                                                    |
+|------------------------------------------------|---------|--------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| What is the State Growth Problem on Solana     | Article | Anatoly Yakovenko  | [Link](https://x.com/aeyakovenko/status/1796569211273445619) | A Twitter article covering the rapid growth of Solana's state and potential solutions                                          |
+| Asynchronous Program Execution (APE) in Solana | Article | Anatoly Yakovenko  | [Link](https://x.com/aeyakovenko/status/1804937522998591577) | A Twitter article covering asynchronous execution and the goal of running the vote program independently of all other programs |
 
 ## Accessible Explainers
 
