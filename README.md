@@ -7,11 +7,8 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 - [Compression](#compression)
 - [Solana Mobile](#solana-mobile)
 - [Opinion and Essays](#opinion-and-essays)
-- [Technical Deep Dives](#technical-deep-dives)
 - [Developer Resources](#developer-resources)
-- [Case Studies and Analysis](#case-studies-and-analysis)
 - [The Future of Solana](#the-future-of-solana)
-- [Accessible Explainers](#accessible-explainers)
 
 ## An Introduction to Solana
 
@@ -24,6 +21,22 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 | Solana the Monolith                                                   | Article | Ceteris      | [Link](https://members.delphidigital.io/reports/solana-the-monolith#more-than-just-scaling-with-hardware-bda3) | A comprehensive deep dive on Solana by Delphi Digital                                 |
 
 ## Solana Fundamentals
+
+| Title                                                                 | Type       | Author(s)         | Link                                                                                                                   | Description                                                                                                                                    |
+|-----------------------------------------------------------------------|------------|-------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| The Solana Whitepaper                                                 | Whitepaper | Anatoly Yakovenko | [Link](https://solana.com/solana-whitepaper.pdf)                                                                       | Solana's biblical text                                                                                                                         |
+| 8 Innovations that Make Solana the First Web-Scale Blockchain         | Article    | Anatoly Yakovenko | [Link](https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda)      | An overview of the eight technologies key to Solana's _modus operandi_                                                                         |
+| Understanding Slots, Blocks, and Epochs on Solana                     | Article    | Mert Mumtaz       | [Link](https://www.helius.dev/blog/solana-slots-blocks-and-epochs)                                                     | A deep dive on how Solana slots, blocks, and epochs work together                                                                              |
+| Solana Nodes - A Primer on Solana RPCs, Validators, and RPC Providers | Article    | Mert Mumtaz       | [Link](https://www.helius.dev/blog/solana-nodes-a-primer-on-solana-rpcs-validators-and-rpc-providers)                  | Learn about Solana nodes, the different types, their importance, and the top RPC providers                                                     |
+| Consensus on Solana                                                   | Article    | Ryan Chern        | [Link](https://www.helius.dev/blog/consensus-on-solana)                                                                | An article contextualizing the role of Proof of History within slots in Tower BFT, Solana's consensus mechanism                                |
+| Solana Proof of Stake + Proof of History Primer                       | Article    | Shinobi Systems   | [Link](https://www.shinobi-systems.com/primer.html)                                                                    | A deep dive into what Proof of History (PoH) is and how it works, suitable for technical readers                                               |
+| Turbine: Block Propagation on Solana                                  | Article    | Ryan Chern        | [Link](https://www.helius.dev/blog/turbine-block-propagation-on-solana)                                                | Learn about block propagation on Solana, how it compares to Ethereum, and future research pathways for block propagation and data availability |
+| Stake-Weighted Quality of Service: Everything You Need to Know        | Article    | 0xIchigo          | [Link](https://www.helius.dev/blog/stake-weighted-quality-of-service-everything-you-need-to-know)                      | Learn about SWQoS, how Solana processes transactions, and the growing importance of validators and stake                                       |
+| Priority Fees: Understanding Solana's Transaction Fee Mechanics       | Article    | 0xIchigo          | [Link](https://www.helius.dev/blog/priority-fees-understanding-solanas-transaction-fee-mechanics)                      | Learn about Solana's transaction fee mechanics, priority fees, and how to implement them programmatically                                      |
+| Solana Fees                                                           | Article    | Umbra Research    | [Link](https://www.umbraresearch.xyz/writings/solana-fees-part-1)                                                      | A look into how Solana fees work today                                                                                                         |
+| Local Fee Markets on Solana                                           | Thread     | 7Layer            | [Link](https://x.com/7LayerMagik/status/1615569374647287808)                                                           | A Twitter thread explaining the structure of Solana's block space to elucidate what fee markets are, how they work, and why they're useful     |
+| Lifecycle of a Solana Transaction                                     | Article    | Umbra Research    | [Link](https://www.umbraresearch.xyz/writings/lifecycle-of-a-solana-transaction)                                       | An overview of how the Solana runtime processes transactions and the differences between transaction execution on Solana and Ethereum         |
+| Solana Internals                                                      | Articles   | Sec3              | [Link](https://www.sec3.dev/blog/solana-internals-part-1-what-are-the-native-on-chain-programs-and-why-do-they-matter) | A 4-part series deep-diving into Solana's internals, suitable for technical readers                                                            |
 
 ## Compression
 
@@ -49,6 +62,7 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 | Token Gating on Solana - A Solana Mobile Tutorial | Article       | 0xSolanaGirl       | [Link](https://www.helius.dev/blog/token-gating-on-solana-mobile-tutorial)            | Learn how to create token-gating experiences using the Saga Genesis Token       |
 | Build a cNFT Minter Mobile App in Under 5 Minutes | Article       | Anam Ansari        | [Link](https://www.helius.dev/blog/build-a-cnft-minter-mobile-app-in-under-5-minutes) | A tutorial covering how to build a cNFT minting Android application             |
 | Solana Mobile Tutorial Apps                       | GitHub Repo   | solana-mobile      | [Link](https://github.com/solana-mobile/tutorial-apps)                                | A collection of tutorial apps showcasing the Solana Mobile Stack (SMS)          |
+| Key Custody on iOS             | Article | Mike Sulistio | [Link](https://docs.solanamobile.com/blog/ios-wallet-signing)                                 | Deep dive into the patterns and challenges of key custody on iOS. |
 
 ## Opinion and Essays
 
@@ -64,16 +78,6 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 | The Billion User Path                                            | Article | James Carlin                                | [Link](https://clean-winter-ede.notion.site/The-Billion-User-Path-5310014e09cb49bc83e9ee099ca12c7f)                                                                       | An optimistic analysis of the future of blockchains and scaling to a billion users                                                                 |
 | Dog Coins, Cat Videos and Disruption                             | Article | Mikel Ayala                                 | [Link](https://medium.datadriveninvestor.com/dog-coins-cat-videos-and-disruption-79cfa4ff69c0)                                                                            | A critical analysis of memecoins, the Attention Economy, online communities, and digital-native capital                                            |
 
-## Technical Deep Dives
-
-| Title                                          | Type       | Author            | Link                                                                                                                   | Description                                                                      |
-| :--------------------------------------------- | :--------- | :---------------- | :--------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------- |
-| Architecture for a High Performance Blockchain | Whitepaper | Anatoly Yakovenko | [Link](https://solana.com/solana-whitepaper.pdf)                                                                       | Proposal of a new blockchain architecture.                                       |
-| Proof of History Primer                        | Article    | Shinobi Systems   | [Link](https://www.shinobi-systems.com/primer.html)                                                                    | Easily digestible deep-dive into Proof of History.                               |
-| Transaction Processing on Solana               | Article    | Jito Labs         | [Link](https://www.jito.wtf/blog/solana-validator-101-transaction-processing/)                                         | Deep dive into validator internals and transaction processing.                   |
-| Solana Internals                               | Article    | Sec3              | [Link](https://www.sec3.dev/blog/solana-internals-part-1-what-are-the-native-on-chain-programs-and-why-do-they-matter) | Series deep-diving into Solana internals.                                        |
-| Mobile dApp Architecture                       | Docs       | Mike Sulistio     | [Link](https://docs.solanamobile.com/getting-started/mobile-dapp-architecture)                                         | An overview of mobile dApp architecture with the Mobile Wallet Adapter protocol. |
-
 ## Developer Resources
 
 | Title                                   | Type     | Author               | Link                                                             | Description                                                            |
@@ -84,27 +88,9 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 | Skeet - TypeScript Serverless Framework | Docs     | Skeet Dev            | [Link](https://skeet.dev/)                                       | Open-Source TypeScript Serverless Framework for creating Solana dApps. |
 | solv - Solana Validator Tool            | Docs     | Epics DAO            | [Link](https://solv.epics.dev/)                                  | Open-Source Tool for easy running Solana Validator.                    |
 
-## Case Studies and Analysis
-
-| Title                          | Type    | Author        | Link                                                                                          | Description                                                       |
-| :----------------------------- | :------ | :------------ | :-------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- |
-| Firedancer Reliability Efforts | Article | Jump Crypto   | [Link](https://jumpcrypto.com/writing/firedancer-reliability/)                                | Analysis of past Solana outages and Firedancer's role.            |
-| Transaction Confirmations      | Article | Jstarry       | [Link](https://jstarry.notion.site/Transaction-confirmation-d5b8f4e09b9c4a70a1f263f82307d7ce) | Deep dive into the transaction confirmation process.              |
-| Key custody on iOS             | Article | Mike Sulistio | [Link](https://docs.solanamobile.com/blog/ios-wallet-signing)                                 | Deep dive into the patterns and challenges of key custody on iOS. |
-
 ## The Future of Solana
 
 | Title                                          | Type    | Author(s)          | Link                                                         | Description                                                                                                                    |
 |------------------------------------------------|---------|--------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | What is the State Growth Problem on Solana     | Article | Anatoly Yakovenko  | [Link](https://x.com/aeyakovenko/status/1796569211273445619) | A Twitter article covering the rapid growth of Solana's state and potential solutions                                          |
 | Asynchronous Program Execution (APE) in Solana | Article | Anatoly Yakovenko  | [Link](https://x.com/aeyakovenko/status/1804937522998591577) | A Twitter article covering asynchronous execution and the goal of running the vote program independently of all other programs |
-
-## Accessible Explainers
-
-| Title                                                                      | Type    | Author    | Link                                                                                                                               | Description                                            |
-| :------------------------------------------------------------------------- | :------ | :-------- | :--------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
-| A Dummy’s Guide to Solana’s Architecture                                   | Article | Anvit     | [Link](https://anvit.hashnode.dev/a-dummys-guide-to-solana-architecture)                                                           | An overview of Solana's architecture.                  |
-| Local Fee Markets on Solana                                                | Thread  | 7Layer    | [Link](https://twitter.com/7LayerMagik/status/1615569374647287808)                                                                 | Deep dive into what fee markets are and how they work. |
-| How to Mint Solana Compressed NFTs (cNFTs) with TypeScript                 | Article | kishi.sol | [Link](https://medium.com/@KishiTheMechanic/how-to-mint-solana-compressed-nfts-cnfts-with-typescript-be9d0fa7ce30)                 | A step-by-step guide on how to mint cNFTs.             |
-| Implementing "Sign In With Solana"(SIWS)                                   | Article | kishi.sol | [Link](https://medium.com/@KishiTheMechanic/implementing-sign-in-with-solana-siws-ce35dadeda31)                                    | A step-by-step guide on how to implement SIWS.         |
-| Tips for Minting Multiple Compressed NFTs (cNFTs) Simultaneously on Solana | Article | kishi.sol | [Link](https://medium.com/@KishiTheMechanic/tips-for-minting-multiple-compressed-nfts-cnfts-simultaneously-on-solana-4e01e06bae00) | Tips for minting multiple cNFTs simultaneously.        |
