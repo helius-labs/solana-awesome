@@ -6,6 +6,7 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 - [Solana Fundamentals](#solana-fundamentals)
 - [Developer Resources](#developer-resources)
   - [General Learning Resources](#general-learning-resources)
+  - [Program Security](#program-security)
 - [Compression](#compression)
 - [Solana Mobile](#solana-mobile)
 - [Opinion and Essays](#opinion-and-essays)
@@ -51,6 +52,15 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 | 60 Days of Solana                        | Tutorial      | Rareskills        | [Link](https://www.rareskills.io/solana-tutorial)                               | A 60-day Solana course designed for engineers with a beginner or intermediate background in Ethereum or EVM development |
 | Solana Bootcamp                          | Video         | Solana Foundation | [Link](https://youtu.be/0P8JeL3TURU?si=jl41rZ5Nrfx3O-Im)                        | A video pirate-theme bootcamp for getting up to speed on Solana programming                                             |
 | Rust + Solana Advance Development Course | Tutorial      | ICB               | [Link](https://careerbooster.io/courses/rust-solana-advance-development-course) | A free advanced Solana development course                                                                               |
+### Program Security
+
+| Title                                                         | Type        | Author(s)           | Link                                                                               | Description                                                                                                                    |
+|---------------------------------------------------------------|-------------|---------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| A Hitchhiker's Guide to Solana Program Security               | Article     | 0xIchigo, bl0ckpain | [Link](https://www.helius.dev/blog/a-hitchhikers-guide-to-solana-program-security) | Learn about Solana program security and how to mitigate common vulnerabilities                                                 |
+| Solana: An Auditor's Introduction                             | Article     | OtterSec            | [Link](https://osec.io/blog/2022-03-14-solana-security-intro)                      | A security-focused introduction to Solana, exploring the underlying runtime environment, security boundaries, and implications |
+| Solana Smart Contracts: Common Pitfalls and How to Avoid Them | Article     | Neodyme             | [Link](https://neodyme.io/en/blog/solana_common_pitfalls/#intro)                   | A short introduction to common Solana security pitfalls and their mitigation                                                   |
+| Sealevel Attacks                                              | GitHub Repo | Coral               | [Link](https://github.com/coral-xyz/sealevel-attacks)                              | Examples of common exploits unique to Solana's programming model and recommended idioms for avoiding them via Anchor           |
+| Solana Auditing and Security Resources                        | GitHub Repo | 0xsanny             | [Link](https://github.com/0xsanny/solsec)                                          | A collection of resources to study Solana smart contract security, auditing, and exploits                                      |
 
 ## Compression
 
