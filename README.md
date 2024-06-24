@@ -4,10 +4,11 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 
 - [An Introduction to Solana](#an-introduction-to-solana)
 - [Solana Fundamentals](#solana-fundamentals)
+- [Developer Resources](#developer-resources)
+  - [General Learning Resources](#general-learning-resources)
 - [Compression](#compression)
 - [Solana Mobile](#solana-mobile)
 - [Opinion and Essays](#opinion-and-essays)
-- [Developer Resources](#developer-resources)
 - [The Future of Solana](#the-future-of-solana)
 
 ## An Introduction to Solana
@@ -37,6 +38,19 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 | Local Fee Markets on Solana                                           | Thread     | 7Layer            | [Link](https://x.com/7LayerMagik/status/1615569374647287808)                                                           | A Twitter thread explaining the structure of Solana's block space to elucidate what fee markets are, how they work, and why they're useful     |
 | Lifecycle of a Solana Transaction                                     | Article    | Umbra Research    | [Link](https://www.umbraresearch.xyz/writings/lifecycle-of-a-solana-transaction)                                       | An overview of how the Solana runtime processes transactions and the differences between transaction execution on Solana and Ethereum         |
 | Solana Internals                                                      | Articles   | Sec3              | [Link](https://www.sec3.dev/blog/solana-internals-part-1-what-are-the-native-on-chain-programs-and-why-do-they-matter) | A 4-part series deep-diving into Solana's internals, suitable for technical readers                                                            |
+
+## Developer Resources
+
+### General Learning Resources
+
+| Title                                    | Type          | Author(s)         | Link                                                                            | Description                                                                                                             |
+|------------------------------------------|---------------|-------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| The Solana Cookbook                      | Documentation | Various           | [Link](https://solanacookbook.com/#contributing)                                | A developer resource that provides essential concepts and references for building on Solana                             |
+| Create a Solana dApp From Scratch        | Tutorial      | Loris Leiva       | [Link](https://lorisleiva.com/create-a-solana-dapp-from-scratch)                | A series on building a simplified version of Twitter as a Solana dApp                                                   |
+| Solana Bytes                             | Video         | Solana Foundation | [Link](https://youtu.be/pRYs49MqapI?si=PlKGMeGdJI7y3EdF)                        | A series of short videos explaining core development and Solana concepts                                                |
+| 60 Days of Solana                        | Tutorial      | Rareskills        | [Link](https://www.rareskills.io/solana-tutorial)                               | A 60-day Solana course designed for engineers with a beginner or intermediate background in Ethereum or EVM development |
+| Solana Bootcamp                          | Video         | Solana Foundation | [Link](https://youtu.be/0P8JeL3TURU?si=jl41rZ5Nrfx3O-Im)                        | A video pirate-theme bootcamp for getting up to speed on Solana programming                                             |
+| Rust + Solana Advance Development Course | Tutorial      | ICB               | [Link](https://careerbooster.io/courses/rust-solana-advance-development-course) | A free advanced Solana development course                                                                               |
 
 ## Compression
 
@@ -77,16 +91,6 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 | Forging Decentralized Knowledge - Every Revolution Needs a Spark | Article | M3taversal                                  | [Link](https://medium.com/@m3taversal/forging-decentralized-knowledge-every-revolution-needs-a-spark-59b8c80c1db6)                                                        | A critical analysis of the essence of a transformative Web3 project and the aim of creating a repository of knowledge that stands the test of time |
 | The Billion User Path                                            | Article | James Carlin                                | [Link](https://clean-winter-ede.notion.site/The-Billion-User-Path-5310014e09cb49bc83e9ee099ca12c7f)                                                                       | An optimistic analysis of the future of blockchains and scaling to a billion users                                                                 |
 | Dog Coins, Cat Videos and Disruption                             | Article | Mikel Ayala                                 | [Link](https://medium.datadriveninvestor.com/dog-coins-cat-videos-and-disruption-79cfa4ff69c0)                                                                            | A critical analysis of memecoins, the Attention Economy, online communities, and digital-native capital                                            |
-
-## Developer Resources
-
-| Title                                   | Type     | Author               | Link                                                             | Description                                                            |
-| :-------------------------------------- | :------- | :------------------- | :--------------------------------------------------------------- | :--------------------------------------------------------------------- |
-| Create Your First Solana dApp           | Tutorial | Loris Leiva          | [Link](https://lorisleiva.com/create-a-solana-dapp-from-scratch) | Easy tutorial on writing Solana programs.                              |
-| The Solana Cookbook                     | Docs     | Solana Cookbook Team | [Link](https://solanacookbook.com/#contributing)                 | Cookbook for Solana developers.                                        |
-| Solana Mobile Developer Docs            | Docs     | Solana Mobile Team   | [Link](https://docs.solanamobile.com/)                           | Comprehensive resources for mobile development on Solana.              |
-| Skeet - TypeScript Serverless Framework | Docs     | Skeet Dev            | [Link](https://skeet.dev/)                                       | Open-Source TypeScript Serverless Framework for creating Solana dApps. |
-| solv - Solana Validator Tool            | Docs     | Epics DAO            | [Link](https://solv.epics.dev/)                                  | Open-Source Tool for easy running Solana Validator.                    |
 
 ## The Future of Solana
 
