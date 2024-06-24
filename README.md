@@ -3,7 +3,8 @@
 A comprehensive, factual resource hub for anyone interested in learning about the Solana blockchain and its underlying technology.
 
 - [Introduction and Overview](#introduction-and-overview)
-- [Mobile](#mobile)
+- [Compression](#compression)
+- [Solana Mobile](#solana-mobile)
 - [Opinion and Essays](#opinion-and-essays)
 - [Technical Deep Dives](#technical-deep-dives)
 - [Developer Resources](#developer-resources)
@@ -18,7 +19,21 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 | The Solana Programming Model           | Article | 0xIchigo | [Link](https://www.helius.dev/blog/the-solana-programming-model-an-introduction-to-developing-on-solana) | This article explores Solana's architecture, account model, and transaction mechanics. |
 | Programming on Solana, An Introduction | Article | Paul X   | [Link](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)                         | Introductory post on Solana programming.                                               |
 
-## Mobile
+## Compression
+
+| Title                                                                      | Type          | Author(s)                                                  | Link                                                                                                                               | Description                                                                                               |
+|----------------------------------------------------------------------------|---------------|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Compressing Digital Assets with Concurrent Merkle Trees                    | Whitepaper    | Jarry Xiao, Noah Gundotra, Austin Adams, Anatoly Yakovenko | [Link](https://drive.google.com/file/d/1BOpa5OFmara50fTvL0VIVYjtg-qzHCVc/view)                                                     | The theory behind state compression                                                                       |
+| State Compression                                                          | Documentation | Solana Foundation                                          | [Link](https://solana.com/docs/advanced/state-compression)                                                                         | The official documentation on state compression                                                           |
+| Exploring NFT Compression on Solana                                        | Article       | Mert Mumtaz                                                | [Link](https://www.helius.dev/blog/solana-nft-compression)                                                                         | Learn how to work with NFT Compression on Solana                                                          |
+| All You Need to Know About State Compression on Solana                     | Article       | 0xIchigo                                                   | [Link](https://www.helius.dev/blog/all-you-need-to-know-about-compression-on-solana)                                               | Learn about state compression, compressed NFTs (cNFTs), as well as how to fetch, mint, or transfer them   |
+| ZK Compression                                                             | Documentation | Helius x Light Protocol                                    | [Link](https://www.zkcompression.com/)                                                                                             | A new primitive aimed at reducing state costs by orders of magnitude                                      |
+| State Compression and Compressed NFTs                                      | GitHub Repo   | solana-developers                                          | [Link](https://github.com/solana-developers/compressed-nfts)                                                                       | Example code to use compressed NFTs on Solana                                                             |
+| How to Mint Solana Compressed NFTs (cNFTs) with TypeScript                 | Article       | kishi.sol                                                  | [Link](https://medium.com/@KishiTheMechanic/how-to-mint-solana-compressed-nfts-cnfts-with-typescript-be9d0fa7ce30)                 | A step-by-step guide on minting cNFTs with TypeScript                                                     |
+| Creating Compressed NFTs with JavaScript                                   | Article       | Solana Foundation                                          | [Link](https://solana.com/developers/guides/javascript/compressed-nfts)                                                            | A step-by-step guide on creating trees, minting, reading, and transferring cNFTs in JavaScript/TypeScript |
+| Tips for Minting Multiple Compressed NFTs (cNFTs) Simultaneously on Solana | Article       | kishi.sol                                                  | [Link](https://medium.com/@KishiTheMechanic/tips-for-minting-multiple-compressed-nfts-cnfts-simultaneously-on-solana-4e01e06bae00) | Tips for minting multiple cNFTs simultaneously                                                            |
+
+## Solana Mobile
 
 | Title                                             | Type          | Author(s)          | Link                                                                                  | Description                                                                     |
 |---------------------------------------------------|---------------|--------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
