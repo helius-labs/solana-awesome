@@ -2,7 +2,8 @@
 
 A comprehensive, factual resource hub for anyone interested in learning about the Solana blockchain and its underlying technology.
 
-- [Introduction and Overview](#introduction-and-overview)
+- [An Introduction to Solana](#an-introduction-to-solana)
+- [Solana Fundamentals](#solana-fundamentals)
 - [Compression](#compression)
 - [Solana Mobile](#solana-mobile)
 - [Opinion and Essays](#opinion-and-essays)
@@ -12,12 +13,17 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 - [The Future of Solana](#the-future-of-solana)
 - [Accessible Explainers](#accessible-explainers)
 
-## Introduction and Overview
+## An Introduction to Solana
 
-| Title                                  | Type    | Author   | Link                                                                                                     | Description                                                                            |
-| :------------------------------------- | :------ | :------- | :------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- |
-| The Solana Programming Model           | Article | 0xIchigo | [Link](https://www.helius.dev/blog/the-solana-programming-model-an-introduction-to-developing-on-solana) | This article explores Solana's architecture, account model, and transaction mechanics. |
-| Programming on Solana, An Introduction | Article | Paul X   | [Link](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)                         | Introductory post on Solana programming.                                               |
+| Title                                                                 | Type    | Author(s)    | Link                                                                                                           | Description                                                                           |
+|-----------------------------------------------------------------------|---------|--------------|----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| The Solana Programming Model: An Introduction to Developing on Solana | Article | 0xIchigo     | [Link](https://www.helius.dev/blog/the-solana-programming-model-an-introduction-to-developing-on-solana)       | An introductory article on Solana's architecture, the account model, and transactions |
+| Programming on Solana - An Introduction                               | Article | Paul X       | [Link](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)                               | An introduction to programming on Solana in native Rust                               |
+| ok so what the fuck is the deal with solana anyway                    | Article | hana         | [Link](https://2501babe.github.io/posts/solana101.html)                                                        | An entertaining perspective on Solana fundamentals, suitable for technical readers    |
+| A Dummy's Guide to Solana's Architecture                              | Article | Anvit Mangal | [Link](https://anvit.hashnode.dev/a-dummys-guide-to-solana-architecture)                                       | A general overview of Solana's architecture                                           |
+| Solana the Monolith                                                   | Article | Ceteris      | [Link](https://members.delphidigital.io/reports/solana-the-monolith#more-than-just-scaling-with-hardware-bda3) | A comprehensive deep dive on Solana by Delphi Digital                                 |
+
+## Solana Fundamentals
 
 ## Compression
 
