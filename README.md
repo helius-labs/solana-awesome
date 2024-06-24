@@ -6,6 +6,7 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 - [Solana Fundamentals](#solana-fundamentals)
 - [Developer Resources](#developer-resources)
   - [General Learning Resources](#general-learning-resources)
+  - [Testing Programs](#testing-programs)
   - [Program Security](#program-security)
 - [Compression](#compression)
 - [Solana Mobile](#solana-mobile)
@@ -52,6 +53,17 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 | 60 Days of Solana                        | Tutorial      | Rareskills        | [Link](https://www.rareskills.io/solana-tutorial)                               | A 60-day Solana course designed for engineers with a beginner or intermediate background in Ethereum or EVM development |
 | Solana Bootcamp                          | Video         | Solana Foundation | [Link](https://youtu.be/0P8JeL3TURU?si=jl41rZ5Nrfx3O-Im)                        | A video pirate-theme bootcamp for getting up to speed on Solana programming                                             |
 | Rust + Solana Advance Development Course | Tutorial      | ICB               | [Link](https://careerbooster.io/courses/rust-solana-advance-development-course) | A free advanced Solana development course                                                                               |
+### Testing Programs
+
+| Title                              | Type      | Author(s)     | Link                                                                   | Description                                                                                               |
+|------------------------------------|-----------|---------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| A Guide to Testing Solana Programs | Article   | 0xIchigo      | [Link](https://www.helius.dev/blog/a-guide-to-testing-solana-programs) | Learn how to test Solana programs, from theory to practical examples                                      |
+| Bankrun                            | Framework | Kevin Heavey  | [Link](https://kevinheavey.github.io/solana-bankrun/)                  | A lightweight, flexible testing framework written in Node.js for Solana programs                          |
+| solana-program-test                | Framework | Anza          | [Link](https://crates.io/crates/solana-program-test)                   | A Rust-based testing framework centered around the BanksClient                                            |
+| solana-test-framework              | Framework | Halborn       | [Link](https://github.com/halbornteam/solana-test-framework)           | An extension of **solana-program-test** developed by Halborn                                              |
+| Mollusk                            | Framework | Joe Caulfield | [Link](https://github.com/buffalojoec/mollusk)                         | A small and fast SVM program test harness                                                                 |
+| LiteSVM                            | Framework | LiteSVM Team  | [Link](https://github.com/LiteSVM/litesvm)                             | A fast, lightweight testing library that creates an in-process Solana VM optimized for program developers |
+
 ### Program Security
 
 | Title                                                         | Type        | Author(s)           | Link                                                                               | Description                                                                                                                    |
