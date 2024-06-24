@@ -3,6 +3,7 @@
 A comprehensive, factual resource hub for anyone interested in learning about the Solana blockchain and its underlying technology.
 
 - [Introduction and Overview](#introduction-and-overview)
+- [Mobile](#mobile)
 - [Opinion and Essays](#opinion-and-essays)
 - [Technical Deep Dives](#technical-deep-dives)
 - [Developer Resources](#developer-resources)
@@ -16,6 +17,17 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 | :------------------------------------- | :------ | :------- | :------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- |
 | The Solana Programming Model           | Article | 0xIchigo | [Link](https://www.helius.dev/blog/the-solana-programming-model-an-introduction-to-developing-on-solana) | This article explores Solana's architecture, account model, and transaction mechanics. |
 | Programming on Solana, An Introduction | Article | Paul X   | [Link](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)                         | Introductory post on Solana programming.                                               |
+
+## Mobile
+
+| Title                                             | Type          | Author(s)          | Link                                                                                  | Description                                                                     |
+|---------------------------------------------------|---------------|--------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Solana Mobile Stack                               | Documentation | Solana Mobile Team | [Link](https://docs.solanamobile.com/)                                                | Comprehensive resources for mobile development on Solana                        |
+| Mobile dApp Architecture                          | Documentation | Mike Sulistio      | [Link](https://docs.solanamobile.com/getting-started/mobile-dapp-architecture)        | An overview of mobile dApp architecture with the Mobile Wallet Adapter protocol |
+| Publishing Solana Mobile Apps: A How to Guide     | Article       | 0xSolanaGirl       | [Link](https://www.helius.dev/blog/publishing-solana-mobile-apps)                     | The necessary steps and resources to publish on the Solana Mobile dApp Store    |
+| Token Gating on Solana - A Solana Mobile Tutorial | Article       | 0xSolanaGirl       | [Link](https://www.helius.dev/blog/token-gating-on-solana-mobile-tutorial)            | Learn how to create token-gating experiences using the Saga Genesis Token       |
+| Build a cNFT Minter Mobile App in Under 5 Minutes | Article       | Anam Ansari        | [Link](https://www.helius.dev/blog/build-a-cnft-minter-mobile-app-in-under-5-minutes) | A tutorial covering how to build a cNFT minting Android application             |
+| Solana Mobile Tutorial Apps                       | GitHub Repo   | solana-mobile      | [Link](https://github.com/solana-mobile/tutorial-apps)                                | A collection of tutorial apps showcasing the Solana Mobile Stack (SMS)          |
 
 ## Opinion and Essays
 
