@@ -131,6 +131,8 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | Solana Pay Specification            | Documentation | Anza               | [Link](https://github.com/anza-xyz/solana-pay/blob/master/SPEC.md) | The specification document for Solana Pay                                                            |
 | Solana Pay Android Example          | GitHub Repo   | Solana Mobile Team | [Link](https://github.com/solana-mobile/solana-pay-android-sample) | An integration guide and sample for Android wallets on handling Solana Pay URIs generated externally |
 | Solana Pay Explained in 100 Seconds | Video         | Abdullah Raza      | [Link](https://youtu.be/nV6Y8nXS5-U?si=kMU8KVhs-1ONc21K)           | A fun, concise explainer on how Solana Pay works, what it's used for, and why it's awesome           |
+| Solana Pay: All You Need to Know                  | Article | Owen Venter | [Link](https://www.helius.dev/blog/solana-pay)         | Solana Pay is a standard protocol and set of reference implementations that enable decentralized payments            |
+| Shopify and Solana Pay: Step-by-Step Guide (2023) | Article | Owen Venter | [Link](https://www.helius.dev/blog/solana-pay-shopify) | A walkthrough of integrating Solana Pay into a Shopify store — looking at both the merchant set up and customer flow |
 
 ## Validators
 
@@ -176,10 +178,14 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 
 ### Operation, Maintenance, and Economics
 
-| Title                                | Type    | Author(s)    | Link                                                                    | Description                                                |
-|--------------------------------------|---------|--------------|-------------------------------------------------------------------------|------------------------------------------------------------|
-| How to Set Up a Solana Validator     | Article | John Sloboda | [Link](https://www.helius.dev/blog/how-to-set-up-a-solana-validator)    | Learn how to get a Solana mainnet validator up and running |
-| Solana Validator Economics: A Primer | Article | Ryan Chern   | [Link](https://www.helius.dev/blog/solana-validator-economics-a-primer) | A primer on Solana validator economics                     |
+| Title                                        | Type          | Author(s)            | Link                                                                         | Description                                                                    |
+|----------------------------------------------|---------------|----------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| How to Set Up a Solana Validator             | Article       | John Sloboda         | [Link](https://www.helius.dev/blog/how-to-set-up-a-solana-validator)         | Learn how to get a Solana mainnet validator up and running                     |
+| Running a Solana Validator: A Full Breakdown | Article       | Fikunmi Ajayi-Peters | [Link](https://apfikunmi.medium.com/running-a-solana-validator-a95cdfd6488a) | A comprehensive guide on validators, running one, economics, and profitability |
+| Setup a Solana Validator                     | Documentation | Solana Foundation    | [Link](https://docs.solanalabs.com/operations/setup-a-validator)             | The official Solana documentation on running a validator                       |
+| Solana Validator Operations Best Practices   | Documentation | Solana Foundation    | [Link](https://docs.solanalabs.com/operations/best-practices/general)        | The best practices recommended by the official Solana documentation            |
+| Solana Validator Economics: A Primer         | Article       | Ryan Chern           | [Link](https://www.helius.dev/blog/solana-validator-economics-a-primer)      | A primer on Solana validator economics                                         |
+| Validator Profit Calculator                  | Tool          | Cogent Crypto        | [Link](https://cogentcrypto.io/ValidatorProfitCalculator)                    | A tool used to estimate validator earnings under hypothetical scenarios        |
 
 ## Opinion and Essays
 
