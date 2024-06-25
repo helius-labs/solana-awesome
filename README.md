@@ -11,6 +11,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
   - [Program Security](#program-security)
 - [Compression](#compression)
 - [Solana Mobile](#solana-mobile)
+- [Solana Pay](#solana-pay)
 - [Validators](Validators)
   - [Agave Client](#agave-client)
   - [Firedancer](#firedancer) 
@@ -121,6 +122,15 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | Build a cNFT Minter Mobile App in Under 5 Minutes | Article       | Anam Ansari        | [Link](https://www.helius.dev/blog/build-a-cnft-minter-mobile-app-in-under-5-minutes) | A tutorial covering how to build a cNFT minting Android application             |
 | Solana Mobile Tutorial Apps                       | GitHub Repo   | solana-mobile      | [Link](https://github.com/solana-mobile/tutorial-apps)                                | A collection of tutorial apps showcasing the Solana Mobile Stack (SMS)          |
 | Key Custody on iOS             | Article | Mike Sulistio | [Link](https://docs.solanamobile.com/blog/ios-wallet-signing)                                 | Deep dive into the patterns and challenges of key custody on iOS. |
+
+## Solana Pay
+
+| Title                               | Type          | Author(s)          | Link                                                               | Description                                                                                          |
+|-------------------------------------|---------------|--------------------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| Solana Pay                          | GitHub Repo   | Anza               | [Link](https://github.com/anza-xyz/solana-pay)                     | A new standard for decentralized payments                                                            |
+| Solana Pay Specification            | Documentation | Anza               | [Link](https://github.com/anza-xyz/solana-pay/blob/master/SPEC.md) | The specification document for Solana Pay                                                            |
+| Solana Pay Android Example          | GitHub Repo   | Solana Mobile Team | [Link](https://github.com/solana-mobile/solana-pay-android-sample) | An integration guide and sample for Android wallets on handling Solana Pay URIs generated externally |
+| Solana Pay Explained in 100 Seconds | Video         | Abdullah Raza      | [Link](https://youtu.be/nV6Y8nXS5-U?si=kMU8KVhs-1ONc21K)           | A fun, concise explainer on how Solana Pay works, what it's used for, and why it's awesome           |
 
 ## Validators
 
