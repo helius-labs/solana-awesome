@@ -1,6 +1,6 @@
 # solana-awesome
 
-A comprehensive, factual resource hub for anyone interested in learning about the Solana blockchain and its underlying technology.
+A comprehensive, factual resource hub for anyone interested in learning about and building on the Solana
 
 - [An Introduction to Solana](#an-introduction-to-solana)
 - [Solana Fundamentals](#solana-fundamentals)
@@ -11,6 +11,11 @@ A comprehensive, factual resource hub for anyone interested in learning about th
   - [Program Security](#program-security)
 - [Compression](#compression)
 - [Solana Mobile](#solana-mobile)
+- [Validators](Validators)
+  - [Agave Client](#agave-client) 
+  - [Updates](#updates)
+  - [Structure](#structure)
+  - [Operation, Maintenance, and Economics](#operation-maintenance-and-economics)   
 - [Opinion and Essays](#opinion-and-essays)
 - [The Future of Solana](#the-future-of-solana)
 
@@ -115,6 +120,41 @@ A comprehensive, factual resource hub for anyone interested in learning about th
 | Build a cNFT Minter Mobile App in Under 5 Minutes | Article       | Anam Ansari        | [Link](https://www.helius.dev/blog/build-a-cnft-minter-mobile-app-in-under-5-minutes) | A tutorial covering how to build a cNFT minting Android application             |
 | Solana Mobile Tutorial Apps                       | GitHub Repo   | solana-mobile      | [Link](https://github.com/solana-mobile/tutorial-apps)                                | A collection of tutorial apps showcasing the Solana Mobile Stack (SMS)          |
 | Key Custody on iOS             | Article | Mike Sulistio | [Link](https://docs.solanamobile.com/blog/ios-wallet-signing)                                 | Deep dive into the patterns and challenges of key custody on iOS. |
+
+## Validators
+
+### Agave Client
+
+| Title                        | Type          | Author(s)     | Link                                                                                                | Description                                                     |
+|------------------------------|---------------|---------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| Agave                        | GitHub Repo   | Anza          | [Link](https://github.com/anza-xyz/agave)                                                           | Anza's fork of the Solana Labs validator client                 |
+| Solana Labs Validator Client | GitHub Repo   | Solana Labs   | [Link](https://github.com/solana-labs/solana)                                                       | The OG validator client                                         |
+| Agave Transition             | Documentation | Anza          | [Link](https://github.com/anza-xyz/agave/wiki/Agave-Transition)                                     | The migration of the Solana Labs client to the new Agave client |
+| The Agave Runtime            | Article       | Joe Caulfield | [Link](https://fluff-ranunculus-275.notion.site/The-Agave-Runtime-d1f8d3608e5d4529b120e09e80b48887) | A deep dive into the Agave Runtime                              |
+
+### Updates
+
+| Title                                            | Type    | Author(s) | Link                                                                                | Description                                                                                                                              |
+|--------------------------------------------------|---------|-----------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| All You Need to Know About Solana's v1.16 Update | Article | 0xIchigo  | [Link](https://www.helius.dev/blog/all-you-need-to-know-about-solanas-v1-16-update) | Learn about Solana's v1.16 update, the latest upgrade to the Solana Labs validator client                                                |
+| All You Need to Know About Solana's v1.17 Update | Article | 0xIchigo  | [Link](https://www.helius.dev/blog/all-you-need-to-know-about-solanas-v1-17-update) | Learn about Solana's v1.17 update, the latest upgrade to the Solana Labs validator client, as well as the recent February network outage |
+| All You Need to Know About Solana's v1.18 Update | Article | 0xIchigo  | [Link](https://www.helius.dev/blog/all-you-need-to-know-about-solanas-v1-18-update) | Learn about the latest update to the Solana Labs (now Agave) client, as well as the new central scheduler                                |
+
+### Structure
+
+| Title                                                                 | Type    | Author(s)         | Link                                                                                                   | Description                                                                                                                                                |
+|-----------------------------------------------------------------------|---------|-------------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Solana Validator 101: Transaction Processing                          | Article | Jito Labs         | [Link](https://www.jito.wtf/blog/solana-validator-101-transaction-processing/)                         | A technical deep dive on the lifecycle of a transaction                                                                                                    |
+| Introducing the Central Scheduler: An Optional Feature of Agave v1.18 | Article | Rex St. John      | [Link](https://www.anza.xyz/blog/introducing-the-central-scheduler-an-optional-feature-of-agave-v1-18) | A look at the new Central Scheduler introduced in the Agave v1.18 release                                                                                  |
+| Solana Banking Stage and Scheduler                                    | Article | Andrew Fitzgerald | [Link](https://apfitzge.github.io/posts/solana-scheduler/)                                             | A long-form explainer on the historic, current, and near-term scheduling algorithms and design used in the Solana Labs validator client's block-production |
+| Spotlight: Solana's Scheduler                                         | Video   | Solana Foundation | [Link](https://youtu.be/R7hq8ampBio?si=oCLdEVJs46clJ2gv)                                               | A critical analysis of the 1.17 scheduler, how transactions go through the Banking Stage, and how the future 1.18 scheduler will work                      |
+
+### Operation, Maintenance, and Economics
+
+| Title                                | Type    | Author(s)    | Link                                                                    | Description                                                |
+|--------------------------------------|---------|--------------|-------------------------------------------------------------------------|------------------------------------------------------------|
+| How to Set Up a Solana Validator     | Article | John Sloboda | [Link](https://www.helius.dev/blog/how-to-set-up-a-solana-validator)    | Learn how to get a Solana mainnet validator up and running |
+| Solana Validator Economics: A Primer | Article | Ryan Chern   | [Link](https://www.helius.dev/blog/solana-validator-economics-a-primer) | A primer on Solana validator economics                     |
 
 ## Opinion and Essays
 
