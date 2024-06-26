@@ -9,6 +9,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
   - [Anchor Development](#anchor-development)
   - [Testing Programs](#testing-programs)
   - [Program Security](#program-security)
+  - [Crates and SDKs](#crates-and-sdks)
   - [Gaming](#gaming)
 - [Compression](#compression)
 - [Solana Mobile](#solana-mobile)
@@ -97,6 +98,16 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | Solana Smart Contracts: Common Pitfalls and How to Avoid Them | Article     | Neodyme             | [Link](https://neodyme.io/en/blog/solana_common_pitfalls/#intro)                   | A short introduction to common Solana security pitfalls and their mitigation                                                   |
 | Sealevel Attacks                                              | GitHub Repo | Coral               | [Link](https://github.com/coral-xyz/sealevel-attacks)                              | Examples of common exploits unique to Solana's programming model and recommended idioms for avoiding them via Anchor           |
 | Solana Auditing and Security Resources                        | GitHub Repo | 0xsanny             | [Link](https://github.com/0xsanny/solsec)                                          | A collection of resources to study Solana smart contract security, auditing, and exploits                                      |
+
+### Crates and SDKs
+
+| Title           | Type  | Author(s) | Link                                                           | Description                                                             |
+|-----------------|-------|-----------|----------------------------------------------------------------|-------------------------------------------------------------------------|
+| solana-program  | Crate | Anza      | [Link](https://crates.io/crates/solana-program)                | The base library for all Solana on-chain Rust programs                  |
+| solana-sdk      | Crate | Anza      | [Link](https://crates.io/crates/solana-sdk)                    | The official Solana SDK to write client-side applications in Rust       |
+| @solana/web3.js | SDK   | Anza      | [Link](https://www.npmjs.com/package/@solana/web3.js/v/latest) | A JavaScript client for Solana, built on top of the Solana JSON RPC API |
+| helius-sdk      | SDK   | Helius    | [Link](https://www.npmjs.com/package/helius-sdk/v/latest)      | A Helius Node.js SDK for building the future of Solana                  |
+| helius          | Crate | Helius    | [Link](https://crates.io/crates/helius)                        | An asynchronous Helius Rust SDK for building the future of Solana       |
 
 ### Gaming
 
