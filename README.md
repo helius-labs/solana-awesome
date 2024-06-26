@@ -9,6 +9,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
   - [Anchor Development](#anchor-development)
   - [Testing Programs](#testing-programs)
   - [Program Security](#program-security)
+  - [Gaming](#gaming)
 - [Compression](#compression)
 - [Solana Mobile](#solana-mobile)
 - [Solana Pay](#solana-pay)
@@ -96,6 +97,20 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | Solana Smart Contracts: Common Pitfalls and How to Avoid Them | Article     | Neodyme             | [Link](https://neodyme.io/en/blog/solana_common_pitfalls/#intro)                   | A short introduction to common Solana security pitfalls and their mitigation                                                   |
 | Sealevel Attacks                                              | GitHub Repo | Coral               | [Link](https://github.com/coral-xyz/sealevel-attacks)                              | Examples of common exploits unique to Solana's programming model and recommended idioms for avoiding them via Anchor           |
 | Solana Auditing and Security Resources                        | GitHub Repo | 0xsanny             | [Link](https://github.com/0xsanny/solsec)                                          | A collection of resources to study Solana smart contract security, auditing, and exploits                                      |
+
+### Gaming
+
+| Title                    | Type        | Author(s)               | Link                                                                    | Description                                                                                                                |
+|--------------------------|-------------|-------------------------|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Turbo                    | Game Engine | Jozanza                 | [Link](https://turbo.computer/)                                         | Built specifically for making low-res, sprite-based 2D games as fast as possible                                           |
+| MagicBlock               | Game Engine | MagicBlock Team         | [Link](https://www.magicblock.gg/)                                      | A versatile engine for on-chain SVM games                                                                                  |
+| Solana Unity SDK         | Framework   | MagicBlock Team         | [Link](https://docs.magicblock.gg/SolanaUnitySDK/overview)              | A comprehensive set of open-source tools to easily access Solana in Unity-based games                                      |
+| Solana Unreal SDK        | Framework   | Bifrost Technologies    | [Link](https://github.com/Bifrost-Technologies/Solana-Unreal-SDK)       | A complete Unreal plugin and toolkit for building blockchain games on Solana with Unreal Engine 5                          |
+| Honeycomb Protocol       | Framework   | Honeycomb Protocol Team | [Link](https://docs.honeycombprotocol.com/)                             | A comprehensive suite of Web3 tools designed for game developers                                                           |
+| GameShift                | Framework   | Solana Labs             | [Link](https://gameshift.solanalabs.com/)                               | A platform for game developers to integrate Web3 elements easily through a single API                                      |
+| Godot SDK                | Framework   | ZenRepublic, Virus-Axel | [Link](https://github.com/Virus-Axel/godot-solana-sdk)                  | A GDExtension enabling Godot to make on-chain and Solana-integrated games                                                  |
+| Foundation Kit           | Framework   | Star Atlas              | [Link](https://github.com/staratlasmeta/FoundationKit)                  | An Unreal Engine Plugin created for Unreal Engine 4 and 5 allowing Unreal Game Clients to connect and interact with Solana |
+| Thugz BC Plugin Packaged | Framework   | ThugzLabs               | [Link](https://github.com/ThugzLabs/Thugz-BC-Plugin-Packaged-for-UE5.0) | The packaged plugin of the Thugz Labs BC Plugin for Unreal Engine                                                          |
 
 ## Compression
 
