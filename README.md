@@ -1,6 +1,6 @@
 # solana-awesome
 
-A comprehensive, factual resource hub for anyone interested in learning about and building on the Solana
+A comprehensive, factual resource hub for anyone interested in learning about and building on Solana
 
 - [An Introduction to Solana](#an-introduction-to-solana)
 - [Solana Fundamentals](#solana-fundamentals)
@@ -10,6 +10,8 @@ A comprehensive, factual resource hub for anyone interested in learning about an
   - [Testing Programs](#testing-programs)
   - [Program Security](#program-security)
   - [Crates and SDKs](#crates-and-sdks)
+  - [Dev Tooling](#dev-tooling)
+  - [Explorers](#explorers)
   - [Gaming](#gaming)
 - [Compression](#compression)
 - [Solana Mobile](#solana-mobile)
@@ -108,6 +110,41 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | @solana/web3.js | SDK   | Anza      | [Link](https://www.npmjs.com/package/@solana/web3.js/v/latest) | A JavaScript client for Solana, built on top of the Solana JSON RPC API |
 | helius-sdk      | SDK   | Helius    | [Link](https://www.npmjs.com/package/helius-sdk/v/latest)      | A Helius Node.js SDK for building the future of Solana                  |
 | helius          | Crate | Helius    | [Link](https://crates.io/crates/helius)                        | An asynchronous Helius Rust SDK for building the future of Solana       |
+
+### Dev Tooling
+
+| Title                  | Type      | Author(s)         | Link                                                                   | Description                                                                                                                            |
+|------------------------|-----------|-------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| Lighthouse             | Framework | Jac0xb            | [Link](https://github.com/Jac0xb/lighthouse)                           | The Solana assertion protocol                                                                                                          |
+| Wallet Adapter         | Framework | Anza              | [Link](https://github.com/anza-xyz/wallet-adapter)                     | Modular TypeScript wallet adapters and components for Solana applications                                                              |
+| Squads CLI             | Tool      | Squads            | [Link](https://github.com/Squads-Protocol/squads-cli)                  | Interact with the Squads Multisig Program through a simple CLI                                                                         |
+| Metaboss               | Tool      | Metafrost         | [Link](https://github.com/samuelvanderwaal/metaboss)                   | The Metaplex NFT-standard Swiss Army Knife tool                                                                                        |
+| create-solana-dapp     | Tool      | Solana Foundation | [Link](https://github.com/solana-developers/create-solana-dapp)        | CLI for creating Solana dApps on the fly                                                                                               |
+| Skeet                  | Framework | Skeet Dev         | [Link](https://github.com/elsoul/skeet)                                | An open-source TypeScript serverless framework                                                                                         |
+| Explorer Kit           | Tool      | SolanaFM Team     | [Link](https://github.com/solana-fm/explorer-kit)                      | A framework-agnostic Solana data parser                                                                                                |
+| Dreamcast              | Framework | Joey Meere        | [Link](https://github.com/joeymeere/dreamcast)                         | Fetch and interact with Anchor programs in minutes                                                                                     |
+| Turnkey Rust Client    | Framework | Eliascm17         | [Link](https://github.com/Eliascm17/turnkey)                           | A Rust interface for interacting with the Turnkey API, allowing for the secure storage and signing of transactions via secure enclaves |
+| cNFT Spam Filter       | Tool      | Solarnius         | [Link](https://github.com/filtoor/cnft-spam-filter)                    | An open-source, lightweight, and portable spam classifier for cNFTs                                                                    |
+| Bubblegum              | Program   | Metaplex          | [Link](https://github.com/metaplex-foundation/mpl-bubblegum)           | Create and manage Metaplex compressed NFTs                                                                                             |
+| Shank                  | Framework | Metaplex          | [Link](https://github.com/metaplex-foundation/shank)                   | Extracts IDLs from Solana Rust contracts                                                                                               |
+| Umi                    | Framework | Metaplex          | [Link](https://github.com/metaplex-foundation/umi)                     | A Solana framework for JavaScript clients                                                                                              |
+| Kinobi                 | Framework | Metaplex          | [Link](https://github.com/metaplex-foundation/kinobi)                  | Generate powerful clients for your Solana programs                                                                                     |
+| Solita                 | Framework | Metaplex          | [Link](https://github.com/metaplex-foundation/solita)                  | Solana IDL to API generator                                                                                                            |
+| Builderz dApp Scaffold | Tool      | Builderz Labs     | [Link](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) | An open-source Next.js Solana dApp scaffold                                                                                            |
+| Builderz xNFT Scaffold | Tool      | Builderz Labs     | [Link](https://github.com/builderz-labs/builderz-xNFT-scaffold-next)   | An open-source Next.js Solana xNFT Backpack scaffold                                                                                   |
+| PubKey Link            | Tool      | Beeman            | [Link](https://github.com/pubkeyapp/pubkey-link)                       | Free and open-source Discord verification on Solana                                                                                    |
+| PubKey Stack           | Tool      | Beeman            | [Link](https://github.com/pubkeyapp/pubkey-stack)                      | A starter to generate apps using the PubKey stack                                                                                      |
+| sol4k                  | Framework | Sasha Shpota      | [Link](https://github.com/sol4k/sol4k)                                 | A Kotlin client for Solana that can be used with Java or any other JVM language, as well as on Android                                 |
+
+### Explorers
+
+| Title            | Type     | Author(s)       | Link                                           | Description                                                            |
+|------------------|----------|-----------------|------------------------------------------------|------------------------------------------------------------------------|
+| Solana Explorer  | Explorer | Solana Labs     | [Link](https://explorer.solana.com/)           | The official explorer for Solana clusters                              |
+| Solscan          | Explorer | Solscan Team    | [Link](https://solscan.io/)                    | The user-friendly and real-time scanning tool for the Solana Ecosystem |
+| SolanaFM         | Explorer | SolanaFM Team   | [Link](https://solana.fm/)                     | A friendly Solana explorer                                             |
+| XRAY (Old)       | Explorer | Helius          | [Link](https://github.com/helius-labs/xray)    | A human-readable Solana transaction explorer powered by Helius         |
+| SOL CLI Explorer | Explorer | cavemanloverboy | [Link](https://github.com/cavemanloverboy/sol) | A command line explorer for the Solana blockchain                      |
 
 ### Gaming
 
