@@ -232,6 +232,8 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | All You Need to Know About Solana's v1.16 Update | Article | 0xIchigo  | [Link](https://www.helius.dev/blog/all-you-need-to-know-about-solanas-v1-16-update) | Learn about Solana's v1.16 update, the latest upgrade to the Solana Labs validator client                                                |
 | All You Need to Know About Solana's v1.17 Update | Article | 0xIchigo  | [Link](https://www.helius.dev/blog/all-you-need-to-know-about-solanas-v1-17-update) | Learn about Solana's v1.17 update, the latest upgrade to the Solana Labs validator client, as well as the recent February network outage |
 | All You Need to Know About Solana's v1.18 Update | Article | 0xIchigo  | [Link](https://www.helius.dev/blog/all-you-need-to-know-about-solanas-v1-18-update) | Learn about the latest update to the Solana Labs (now Agave) client, as well as the new central scheduler                                |
+| Agave v2.0 Update All You Need to Know | Article | [Link](https://www.helius.dev/blog/agave-v2-update) | Lostin    | A summary of key Solana Agave 2.0 features and optimizations, including syscalls, economic changes, and ZK ElGamal Proof |
+| Agave v2.1 Update: All You Need to Know | Article | [Link](https://www.helius.dev/blog/agave-v21-update-all-you-need-to-know) | Lostin    | A summary of all the key release cycle features and optimizations to watch out for with the Solana Agave 2.1 client update |
 
 ### Structure
 
