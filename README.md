@@ -7,6 +7,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 - [Developer Resources](#developer-resources)
   - [General Learning Resources](#general-learning-resources)
   - [Anchor Development](#anchor-development)
+  - [Non-Anchor Program Development](#non-anchor-program-development)
   - [Testing Programs](#testing-programs)
   - [Program Security](#program-security)
   - [Crates and SDKs](#crates-and-sdks)
@@ -81,8 +82,16 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | Full-stack Solana Development with React and Anchor                       | Article       | Solana Foundation               | [Link](https://solana.com/developers/guides/getstarted/full-stack-solana-development)                       | A step-by-step walkthrough of building, testing, and deploying an Anchor program and React frontend                                                                                     |
 | Getting Started with the Anchor Framework                                 | Article       | Solana Foundation               | [Link](https://solana.com/developers/guides/getstarted/intro-to-anchor)                                     | An introduction to Anchor covering a simple program, IDLs, and the TypeScript client                                                                                                    |
 | Intro to Anchor / Solana Development                                      | Video         | Harry Papacharissiou, Chainlink | [Link](https://www.youtube.com/live/Ru-ywR7rtgY?si=eLjKys3tkrehmKzJ)                                        | An introduction to Solana and Anchor development, suitable for beginners                                                                                                                |
+| Poseidon  | Framework | Turbin3       | [Link](https://github.com/Turbin3/poseidon)    | A Transpiler to convert your Solana programs from Typescript to Anchor |
 | Solana Smart Contract Tutorial: Using the Anchor Framework                | Video         | Josh's DevBox                   | [Link](https://youtu.be/CmG5_sIas1Q?si=oM19MuJB_x0pTV64)                                                    | An introduction to Anchor, part of the ["Solana Development Tutorial" series](https://youtube.com/playlist?list=PL53JxaGwWUqCr3xm4qvqbgpJ4Xbs4lCs7&amp;amp;amp;amp;si=Kc1EqSTxlH8f7zob) |
 | The Anchor Book                                                           | Documentation | Coral                           | [Link](https://book.anchor-lang.com/)                                                                       | An introductory book to get started with Anchor                                                                                                                                         |
+
+### Non-Anchor Program Development
+
+| Title     | Type      | Author        | Link                                           | Description                                                            |
+|-----------|-----------|---------------|------------------------------------------------|------------------------------------------------------------------------|
+| Pinocchio | Framework | Anza          | [Link](https://github.com/anza-xyz/pinocchio)  | Create Solana programs with no dependencies attached                   |
+| Steel     | Framework | Regolith Labs | [Link](https://github.com/regolith-labs/steel) | Solana smart contract framework                                        |
 
 ### Testing Programs
 
