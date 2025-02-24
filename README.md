@@ -93,7 +93,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | Mollusk                            | Framework | Joe Caulfield | [Link](https://github.com/buffalojoec/mollusk)                         | A small and fast SVM program test harness                                                                 |
 | LiteSVM                            | Framework | LiteSVM Team  | [Link](https://github.com/LiteSVM/litesvm)                             | A fast, lightweight testing library that creates an in-process Solana VM optimized for program developers |
 
-| Zest |                             | Framework | LimeChain | [Link](https://github.com/LimeChain/zest)                                  | Code coverage CLI tool for Solana program                                                    
+| Zest |                             | Framework | LimeChain | [Link](https://github.com/LimeChain/zest)                                  | Code coverage CLI tool for Solana program                                                                 |                                                 
 ### Program Security
 
 | Title                                                         | Type        | Author(s)           | Link                                                                               | Description                                                                                                                    |
