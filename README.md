@@ -13,6 +13,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
   - [Crates and SDKs](#crates-and-sdks)
   - [Dev Tooling](#dev-tooling)
   - [Explorers](#explorers)
+  - [Performance dashboards](#performance-dashboards)
   - [Gaming](#gaming)
 - [Compression](#compression)
 - [Solana Mobile](#solana-mobile)
@@ -161,6 +162,12 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | SolanaFM         | Explorer | SolanaFM Team   | [Link](https://solana.fm/)                     | A friendly Solana explorer                                             |
 | Solscan          | Explorer | Solscan Team    | [Link](https://solscan.io/)                    | The user-friendly and real-time scanning tool for the Solana Ecosystem |
 | XRAY (Old)       | Explorer | Helius          | [Link](https://github.com/helius-labs/xray)    | A human-readable Solana transaction explorer powered by Helius         |
+
+### Performance dashboards
+
+| Title              | Type                                  | Author(s)  | Link                                             | Description                                                                   |
+|--------------------|---------------------------------------|------------|--------------------------------------------------|-------------------------------------------------------------------------------|
+| Chainstack Compare | Node performance monitoring dashboard | Chainstack | [Link](https://compare.chainstack.com/dashboard) |  node RPC performance comparison dashboard across time for Solana nodes from key providers, including transaction landing rates.                      |
 
 ### Gaming
 
