@@ -216,12 +216,6 @@
 | Shopify 和 Solana Pay：逐步指南（2023）               | 文章          | Owen Venter            | [链接](https://www.helius.dev/blog/solana-pay-shopify)            | 集成 Solana Pay 到 Shopify 商店的详细指南，涵盖商户设置和客户流程。                                               |
 | Solana Pay                                         | GitHub 仓库   | Anza                   | [链接](https://github.com/anza-xyz/solana-pay)                    | 一种新的去中心化支付标准。                                                                                          |
 | Solana Pay Android 示例                             | GitHub 仓库   | Solana Mobile Team     | [链接](https://github.com/solana-mobile/solana-pay-android-sample)| 针对 Android 钱包处理外部生成的 Solana Pay URI 的集成指南
-以下是您提供的内容翻译成中文：
-
-### Solana Pay
-
-| 标题                                | 类型          | 作者(s)          | 链接                                                               | 描述                                                                                                   |
-|-------------------------------------|---------------|------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | Solana Pay: 所有你需要知道的事情    | 文章          | Owen Venter       | [链接](https://www.helius.dev/blog/solana-pay)                     | Solana Pay 是一种标准协议和参考实现的集合，可以实现去中心化支付。                                       |
 | 用100秒解释Solana Pay               | 视频          | Abdullah Raza     | [链接](https://youtu.be/nV6Y8nXS5-U?si=kMU8KVhs-1ONc21K)           | 一个有趣且简明扼要的解释，讲述了 Solana Pay 的工作原理、用途和优点。                                    |
 | Solana Pay 规范                     | 文档          | Anza              | [链接](https://github.com/anza-xyz/solana-pay/blob/master/SPEC.md)   | Solana Pay 的规范文档。                                                                                  |
