@@ -1,4 +1,4 @@
-# solana-awesome# solana-awesome
+# solana-awesome
 
 一个为所有对学习和构建 Solana 感兴趣的人提供的全面、真实的资源中心
 
@@ -16,8 +16,8 @@
   - [性能仪表板](#performance-dashboards)
   - [游戏](#gaming)
 - [压缩](#compression)
-- [Solana Mobile](#solana-mobile)
-- [Solana Pay](#solana-pay)
+- [Solana 移动端](#solana-mobile)
+- [Solana 支付](#solana-pay)
 - [验证者](Validators)
   - [Agave 客户端](#agave-client)
   - [Firedancer](#firedancer) 
@@ -209,7 +209,7 @@
 | Solana 移动教程应用                                | GitHub 仓库   | solana-mobile          | [链接](https://github.com/solana-mobile/tutorial-apps)                                       | 展示 Solana 移动堆栈（SMS）的教程应用程序集合。                                                            |
 | Solana 的令牌门控 - Solana 移动教程                 | 文章          | 0xSolanaGirl           | [链接](https://www.helius.dev/blog/token-gating-on-solana-mobile-tutorial)                   | 学习如何使用 Saga Genesis Token 创建令牌门控体验。                                                        |
 
-### Solana Pay
+### Solana 支付
 
 | 标题                                                | 类型          | 作者(s)                | 链接                                                              | 描述                                                                                                                |
 |----------------------------------------------------|---------------|------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
