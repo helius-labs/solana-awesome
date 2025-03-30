@@ -2,30 +2,30 @@
 
 一个为所有对学习和构建 Solana 感兴趣的人提供的全面、真实的资源中心
 
-- [Solana 简介](#an-introduction-to-solana)
-- [Solana 基础](#solana-fundamentals)
-- [开发者资源](#developer-resources)
-  - [通用学习资源](#general-learning-resources)
-  - [Anchor 开发](#anchor-development)
-  - [非 Anchor 程序开发](#non-anchor-program-development)
-  - [测试程序](#testing-programs)
-  - [程序安全](#program-security)
-  - [Crates 和 SDK](#crates-and-sdks)
-  - [开发工具](#dev-tooling)
-  - [浏览器](#explorers)
-  - [性能仪表板](#performance-dashboards)
-  - [游戏](#gaming)
-- [压缩](#compression)
-- [Solana 移动端](#solana-mobile)
-- [Solana 支付](#solana-pay)
-- [验证者](Validators)
-  - [Agave 客户端](#agave-client)
+- [Solana 简介](#solana-简介)
+- [Solana 基础](#solana-基础)
+- [开发者资源](#开发者资源)
+  - [通用学习资源](#通用学习资源)
+  - [Anchor 开发](#anchor-开发)
+  - [非 Anchor 程序开发](#非-anchor-程序开发)
+  - [测试程序](#测试程序)
+  - [程序安全](#程序安全)
+  - [Crates 和 SDK](#crates-和-sdks)
+  - [开发工具](#开发工具)
+  - [浏览器](#浏览器)
+  - [性能仪表板](#性能仪表板)
+  - [游戏](#游戏)
+- [压缩](#压缩)
+- [Solana 移动端](#solana-移动端)
+- [Solana 支付](#solana-支付)
+- [验证者](#验证者)
+  - [Agave 客户端](#agave-客户端)
   - [Firedancer](#firedancer) 
-  - [更新](#updates)
-  - [结构](#structure)
-  - [运营、维护和经济学](#operation-maintenance-and-economics)   
-- [观点和文章](#opinion-and-essays)
-- [Solana 的未来](#the-future-of-solana)
+  - [更新](#更新)
+  - [结构](#结构)
+  - [运营、维护与经济学](#运营-维护和经济学)   
+- [观点和文章](#观点和文章)
+- [Solana 的未来](#solana-的未来)
 
 ## Solana 简介
 
@@ -269,7 +269,7 @@
 | Solana eBPF 虚拟机                                               | 文章    | Joe Caulfield       | [链接](https://www.anza.xyz/blog/the-solana-ebpf-virtual-machine)                                        | 了解 rBPF 虚拟机的工作原理，以及验证者如何使用它执行程序                                                                                              |
 | Solana 验证者 101：交易处理                                      | 文章    | Jito Labs          | [链接](https://www.jito.wtf/blog/solana-validator-101-transaction-processing/)                         | 对交易生命周期的技术深入探讨                                                                                                           |
 
-### 运营、维护与经济
+### 运营、维护与经济学
 
 | 标题                                        | 类型          | 作者(s)            | 链接                                                                         | 描述                                                                    |
 |----------------------------------------------|---------------|----------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------------|
@@ -281,7 +281,7 @@
 | Solana 验证者运营最佳实践                     | 文档          | Solana Foundation    | [链接](https://docs.solanalabs.com/operations/best-practices/general)        | Solana 官方文档推荐的最佳实践                                         |
 | 验证者利润计算器                             | 工具          | Cogent Crypto        | [链接](https://cogentcrypto.io/ValidatorProfitCalculator)                    | 用于估计验证者在假设场景下的收益的工具                                 |
 
-### 意见与散文
+### 观点和文章
 
 | 标题                                                            | 类型    | 作者(s)                                   | 链接                                                                                                                                                                      | 描述                                                                                                                                        |
 |------------------------------------------------------------------|---------|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
