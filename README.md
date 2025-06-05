@@ -107,6 +107,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | solana-test-framework              | Framework | Halborn       | [Link](https://github.com/halbornteam/solana-test-framework)           | An extension of **solana-program-test** developed by Halborn                                              |
 | Testing With Anchor                | Video     | Harry Papacharissiou, Chainlink | [Link](https://www.youtube.com/live/_9xS3ZvDIIU?si=YNJnfEMlGCKRFT6W)   | A livestream given for the Chainlink Spring 2022 Hackathon on testing Anchor programs                      |
 
+| Zest                               | Framework | LimeChain | [Link](https://github.com/LimeChain/zest)                                  | Code coverage CLI tool for Solana program                                                                 |                                                 
 ### Program Security
 
 | Title                                                         | Type        | Author(s)           | Link                                                                               | Description                                                                                                                    |
