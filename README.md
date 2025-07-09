@@ -153,6 +153,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | Turnkey Rust Client    | Framework | Eliascm17         | [Link](https://github.com/Eliascm17/turnkey)                           | A Rust interface for interacting with the Turnkey API, allowing for the secure storage and signing of transactions via secure enclaves |
 | Umi                    | Framework | Metaplex          | [Link](https://github.com/metaplex-foundation/umi)                     | A Solana framework for JavaScript clients                                                                                              |
 | Wallet Adapter         | Framework | Anza              | [Link](https://github.com/anza-xyz/wallet-adapter)                     | Modular TypeScript wallet adapters and components for Solana applications                                                              |
+| Rust Wallet Adapter    | Framework | 448-OG            | [Link](https://github.com/JamiiDao/SolanaWalletAdapter)                | A Rust library implementing the wallet-adapter standard with templates for Dioxus, Yew and Sycamore |
 
 ### Explorers
 
