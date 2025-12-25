@@ -127,6 +127,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | solana-program  | Crate | Anza      | [Link](https://crates.io/crates/solana-program)                | The base library for all Solana on-chain Rust programs                  |
 | solana-sdk      | Crate | Anza      | [Link](https://crates.io/crates/solana-sdk)                    | The official Solana SDK to write client-side applications in Rust       |
 | @solana/web3.js | SDK   | Anza      | [Link](https://www.npmjs.com/package/@solana/web3.js/v/latest) | A JavaScript client for Solana, built on top of the Solana JSON RPC API |
+| Shady | dApp / Toolkit | Shady Labs | [Website](https://www.shady.to) / [Docs](https://shadylabs.gitbook.io/shadylabs-docs) / [Twitter](https://x.com/Shady_Labs) / [GitHub](https://github.com/shadylabdev/shady) | Privacy toolkit enabling Stealth Address, ZK Gate (view key), and Private Swap with Raydium + ZK access layer. |
 
 ### Dev Tooling
 
