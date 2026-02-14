@@ -299,6 +299,9 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | The Year Solana Blew Up                                          | Article | Ryan Shea                                   | [Link](https://writing.ry.sh/the-year-solana-blew-up-6d50cccb4615)                                                                                                        | A must-read for anyone interested in Solana                                                                                                        |
 | Why Solana                                                       | Article | Mert Mumtaz                                 | [Link](https://www.mertimus.com/p/why-solana)                                                                                                                             | A personal perspective on building on Solana                                                                                                       |
 | Solana Thesis - The Fastest Horse Rises From the Ashes           | Article | Ryan Watkins, Wilson Withiam, Daniel Cheung | [Link](https://www.syncracy.io/writing/solana-thesis)                                                                                                                     | A comprehensive thesis explaining the "why" of Solana                                                                                              |
+| MintMe SDK | Article | Ricardo | [Link](https://github.com/mintme-dev/mintme-sdk) | JavaScript/TypeScript SDK for creating and managing SPL tokens with Metaplex metadata, revoking authorities, and handling optional commissions. Available on NPM. |
+
+
 
 ## The Future of Solana
 
