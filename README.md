@@ -122,6 +122,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 
 | Title           | Type  | Author(s) | Link                                                           | Description                                                             |
 |-----------------|-------|-----------|----------------------------------------------------------------|-------------------------------------------------------------------------|
+| Fabrknt         | SDK   | Fabrknt   | [Link](https://github.com/fabrknt/fabrknt)                     | Open-source SDK for building crypto financial operations on Solana with security, parallel execution, DEX routing, and ZK compression primitives |
 | helius          | Crate | Helius    | [Link](https://crates.io/crates/helius)                        | An asynchronous Helius Rust SDK for building the future of Solana       |
 | helius-sdk      | SDK   | Helius    | [Link](https://www.npmjs.com/package/helius-sdk/v/latest)      | A Helius Node.js SDK for building the future of Solana                  |
 | solana-program  | Crate | Anza      | [Link](https://crates.io/crates/solana-program)                | The base library for all Solana on-chain Rust programs                  |
