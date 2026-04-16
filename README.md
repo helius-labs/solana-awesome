@@ -27,6 +27,8 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 - [Opinion and Essays](#opinion-and-essays)
 - [The Future of Solana](#the-future-of-solana)
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewards vintage hardware for mining
+
 ## An Introduction to Solana
 
 
