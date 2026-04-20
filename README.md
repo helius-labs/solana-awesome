@@ -359,3 +359,8 @@ More info: [Top Solana Block Explorers (2026)](https://www.helius.dev/blog/top-s
 | What is the State Growth Problem on Solana     | Article | Anatoly Yakovenko | [Link](https://x.com/aeyakovenko/status/1796569211273445619) | A X (Twitter) article covering the rapid growth of Solana's state and potential solutions                                          |
 
 
+
+
+## WhiteOwl
+
+- [WhiteOwl](https://github.com/whiteowl-engine/WhiteOwl) â€” Local-first AI-powered trading panel for Solana memecoins. Uses Helius RPC + Webhooks. Multi-agent system, autonomous Shit Trader, browser extension.
