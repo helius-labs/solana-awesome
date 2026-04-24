@@ -263,6 +263,7 @@ More info: [Top Solana Block Explorers (2026)](https://www.helius.dev/blog/top-s
 | Solana Pay: All You Need to Know                  | Article       | Owen Venter        | [Link](https://www.helius.dev/blog/solana-pay)                     | Solana Pay is a standard protocol and set of reference implementations that enable decentralized payments            |
 | Solana Pay Explained in 100 Seconds               | Video         | Abdullah Raza      | [Link](https://youtu.be/nV6Y8nXS5-U?si=kMU8KVhs-1ONc21K)           | A fun, concise explainer on how Solana Pay works, what it's used for, and why it's awesome                           |
 | Solana Pay Specification                          | Documentation | Anza               | [Link](https://github.com/anza-xyz/solana-pay/blob/master/SPEC.md) | The specification document for Solana Pay                                                                            |
+| AlgoVoi Payment Gateway                           | Facilitator   | AlgoVoi            | [Link](https://api1.ilovechicken.co.uk/.well-known/agent.json)     | Multi-chain AP2 / x402 / MPP payment facilitator with native Solana Pay `reference` pubkey binding — verifies on-chain SPL USDC settlement deterministically via `getSignaturesForAddress(reference)`. Also spans Algorand, VOI, Hedera, Stellar, Base, and Tempo on a single endpoint. |
 
 
 ## Validators
