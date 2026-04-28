@@ -67,6 +67,8 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 
 ### General Learning Resources
 
+- [链新社 - Chinese Blockchain Learning Resources](https://www.lianxinshe666.com/special/blockchain/) - Comprehensive Chinese-language learning platform covering blockchain fundamentals, DeFi, NFTs, and Web3 basics
+
 
 | Title                                    | Type          | Author(s)         | Link                                                                            | Description                                                                                                             |
 | ---------------------------------------- | ------------- | ----------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
