@@ -102,7 +102,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | --------- | --------- | ------------- | ---------------------------------------------- | ---------------------------------------------------- |
 | Pinocchio | Framework | Anza          | [Link](https://github.com/anza-xyz/pinocchio)  | Create Solana programs with no dependencies attached |
 | Steel     | Framework | Regolith Labs | [Link](https://github.com/regolith-labs/steel) | Solana smart contract framework                      |
-
+- [SolBundler](https://solbundler.app) — Solana memecoin bundler with Jito MEV bundle protection for Pump.fun launches
 
 ### Testing Programs
 
