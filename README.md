@@ -139,6 +139,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | --------------- | ----- | --------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | helius          | Crate | Helius    | [Link](https://crates.io/crates/helius)                        | An asynchronous Helius Rust SDK for building the future of Solana             |
 | helius-sdk      | SDK   | Helius    | [Link](https://www.npmjs.com/package/helius-sdk/v/latest)      | A Helius Node.js SDK for building the future of Solana                        |
+| helius-python   | SDK   | markosnarinian | [Link](https://github.com/markosnarinian/helius-python)    | A Python SDK for the Helius API for building on Solana                        |
 | solana-program  | Crate | Anza      | [Link](https://crates.io/crates/solana-program)                | The base library for all Solana on-chain Rust programs                        |
 | solana-sdk      | Crate | Anza      | [Link](https://crates.io/crates/solana-sdk)                    | The official Solana SDK to write client-side applications in Rust             |
 | @solana/kit     | SDK   | Anza      | [Link](https://github.com/anza-xyz/kit)                        | The preferred JavaScript/TypeScript SDK for Solana (successor to web3.js 2.x) |
