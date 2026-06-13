@@ -12,6 +12,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
   - [Program Security](#program-security)
   - [Crates and SDKs](#crates-and-sdks)
   - [Dev Tooling](#dev-tooling)
+- [SwapTitan](https://swaptitan.net) - No-KYC swap service with Solana support. CLI (`npx terafab-cli`), MCP server, and REST API. Jupiter integration for /memes page swaps.
   - [Explorers](#explorers)
   - [Performance dashboards](#performance-dashboards)
   - [Gaming](#gaming)
