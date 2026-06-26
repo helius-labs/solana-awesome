@@ -205,6 +205,7 @@ More info: [Top Solana Block Explorers (2026)](https://www.helius.dev/blog/top-s
 | Title              | Type                                  | Author(s)  | Link                                             | Description                                                                                                                     |
 | ------------------ | ------------------------------------- | ---------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
 | Chainstack Compare | Node performance monitoring dashboard | Chainstack | [Link](https://compare.chainstack.com/dashboard) | node RPC performance comparison dashboard across time for Solana nodes from key providers, including transaction landing rates. |
+| OpenChainBench | RPC benchmark dashboard | Mobula | [Link](https://openchainbench.com/benchmarks/solana-tx-landing) | Active probing of Solana RPC tx-landing success and time-to-confirmation across providers, with open methodology and multi-region Prometheus data. |
 
 
 ### Gaming
