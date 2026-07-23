@@ -202,9 +202,10 @@ More info: [Top Solana Block Explorers (2026)](https://www.helius.dev/blog/top-s
 ### Performance dashboards
 
 
-| Title              | Type                                  | Author(s)  | Link                                             | Description                                                                                                                     |
-| ------------------ | ------------------------------------- | ---------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| Chainstack Compare | Node performance monitoring dashboard | Chainstack | [Link](https://compare.chainstack.com/dashboard) | node RPC performance comparison dashboard across time for Solana nodes from key providers, including transaction landing rates. |
+| Title              | Type                                  | Author(s)      | Link                                                                   | Description                                                                                                                     |
+| ------------------ | ------------------------------------- | -------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Chainstack Compare | Node performance monitoring dashboard | Chainstack     | [Link](https://compare.chainstack.com/dashboard)                       | node RPC performance comparison dashboard across time for Solana nodes from key providers, including transaction landing rates. |
+| OpenChainBench     | Independent public benchmarks         | OpenChainBench | [Link](https://openchainbench.com/benchmarks/category/rpcs)            | Independent open-source RPC latency (p50/p95/p99), reliability, `getSlot` freshness and Solana transaction landing measurements probed continuously from three regions. CC BY 4.0 data, open-source Go harnesses. |
 
 
 ### Gaming
