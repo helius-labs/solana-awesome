@@ -197,7 +197,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | WormholeScan     | Bridge Explorer | Wormhole       | [Link](https://wormholescan.io)      | Track cross-chain transfers, tokens, and programs                                |
 
 More info: [Top Solana Block Explorers (2026)](https://www.helius.dev/blog/top-solana-block-explorers)
-
+| [Paygate Explorer](https://paygate.love/explorer) | Free multi-chain explorer: BTC/LTC/DOGE/ETH/BSC/TON/TRON/SOL, address & tx lookup + rich lists | - | - | - |
 
 ### Performance dashboards
 
