@@ -146,6 +146,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 
 
 ### Dev Tooling
+- [n8n Solana Price Alert](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow that alerts on Telegram/Discord when an SPL token crosses a price threshold, no API key needed.
 
 
 | Title                    | Type      | Author(s)         | Link                                                                               | Description                                                                                                                            |
