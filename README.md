@@ -358,4 +358,4 @@ More info: [Top Solana Block Explorers (2026)](https://www.helius.dev/blog/top-s
 | Asynchronous Program Execution (APE) in Solana | Article | Anatoly Yakovenko | [Link](https://x.com/aeyakovenko/status/1804937522998591577) | A X (Twitter) article covering asynchronous execution and the goal of running the vote program independently of all other programs |
 | What is the State Growth Problem on Solana     | Article | Anatoly Yakovenko | [Link](https://x.com/aeyakovenko/status/1796569211273445619) | A X (Twitter) article covering the rapid growth of Solana's state and potential solutions                                          |
 
-
+- [SolSniper](https://github.com/ezequiellich44-cmd/SolSniper) - AI-powered Solana trading bot with real ML rug detection, token scoring, auto trading, copy trading, Jito bundles. 0% fees, self-hosted, open source.
