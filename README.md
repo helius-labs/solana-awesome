@@ -263,6 +263,7 @@ More info: [Top Solana Block Explorers (2026)](https://www.helius.dev/blog/top-s
 | Solana Pay: All You Need to Know                  | Article       | Owen Venter        | [Link](https://www.helius.dev/blog/solana-pay)                     | Solana Pay is a standard protocol and set of reference implementations that enable decentralized payments            |
 | Solana Pay Explained in 100 Seconds               | Video         | Abdullah Raza      | [Link](https://youtu.be/nV6Y8nXS5-U?si=kMU8KVhs-1ONc21K)           | A fun, concise explainer on how Solana Pay works, what it's used for, and why it's awesome                           |
 | Solana Pay Specification                          | Documentation | Anza               | [Link](https://github.com/anza-xyz/solana-pay/blob/master/SPEC.md) | The specification document for Solana Pay                                                                            |
+| solana-pay-link                                   | Tool          | visawestern        | [Link](https://github.com/visawestern/solana-pay-link)             | Client-only Solana Pay URL builder (SOL/USDC, label/message/memo/reference, getAccountInfo check)                   |
 
 
 ## Validators
