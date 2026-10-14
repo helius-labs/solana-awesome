@@ -131,6 +131,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | Solana: An Auditor's Introduction                             | Article     | OtterSec            | [Link](https://osec.io/blog/2022-03-14-solana-security-intro)                      | A security-focused introduction to Solana, exploring the underlying runtime environment, security boundaries, and implications |
 | Solana Smart Contracts: Common Pitfalls and How to Avoid Them | Article     | Neodyme             | [Link](https://neodyme.io/en/blog/solana_common_pitfalls/#intro)                   | A short introduction to common Solana security pitfalls and their mitigation                                                   |
 
+| SolAudit                                                      | Tool        | blueeyez425-art     | [Link](https://github.com/blueeyez425-art/solaudit)                                 | Open-source static analyzer for Solana/Anchor programs; CLI, GitHub Action, and web demo            |
 
 ### Crates and SDKs
 
