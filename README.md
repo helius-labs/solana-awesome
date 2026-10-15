@@ -331,7 +331,7 @@ More info: [Top Solana Block Explorers (2026)](https://www.helius.dev/blog/top-s
 | Solana Validator Economics: A Primer         | Article       | Ryan Chern           | [Link](https://www.helius.dev/blog/solana-validator-economics-a-primer)      | A primer on Solana validator economics                                                    |
 | Solana Validator Operations Best Practices   | Documentation | Solana Foundation    | [Link](https://docs.anza.xyz/operations/best-practices/general/)             | The best practices recommended by the official Solana documentation                       |
 | Validator Profit Calculator                  | Tool          | Cogent Crypto        | [Link](https://cogentcrypto.io/ValidatorProfitCalculator)                    | A tool used to estimate validator earnings under hypothetical scenarios                   |
-
+| CurveRadar       | CRDR Terminal | CRDRCreator    | [Link](https://curveradar.com/)      | Solana token screener, launchpad and liquidity locker.                           |
 
 ## Opinion and Essays
 
