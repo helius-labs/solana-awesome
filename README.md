@@ -195,6 +195,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | Validators.app   | Validator Explorer | Block Logic | [Link](https://validators.app)       | Solana validator metrics and network health                                      |
 | ibrl.wtf         | Validator Explorer | Jito        | [Link](https://ibrl.wtf/)            | Analyze block-building behavior across Solana validators                         |
 | WormholeScan     | Bridge Explorer | Wormhole       | [Link](https://wormholescan.io)      | Track cross-chain transfers, tokens, and programs                                |
+| Iris             | Investigation Explorer | Iris    | [Link](https://iriscan.app)          | Wallet analysis and fund tracing on Solana, EVM chains, Bitcoin and Tron, through mixers, bridges and instant swaps |
 
 More info: [Top Solana Block Explorers (2026)](https://www.helius.dev/blog/top-solana-block-explorers)
 
