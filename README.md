@@ -195,6 +195,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | Validators.app   | Validator Explorer | Block Logic | [Link](https://validators.app)       | Solana validator metrics and network health                                      |
 | ibrl.wtf         | Validator Explorer | Jito        | [Link](https://ibrl.wtf/)            | Analyze block-building behavior across Solana validators                         |
 | WormholeScan     | Bridge Explorer | Wormhole       | [Link](https://wormholescan.io)      | Track cross-chain transfers, tokens, and programs                                |
+| RugRadar         | Token Risk Scanner | RugRadar    | [Link](https://rugradar-bgcm.onrender.com) | Read-only token risk checks: mint/freeze authority, Token-2022 extensions, holder concentration, bundled insider wallets, LP locks, sell-route test |
 
 More info: [Top Solana Block Explorers (2026)](https://www.helius.dev/blog/top-solana-block-explorers)
 
