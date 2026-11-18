@@ -176,6 +176,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | Wallet Adapter           | Framework | Anza              | [Link](https://github.com/anza-xyz/wallet-adapter)                                 | Modular TypeScript wallet adapters and components for Solana applications                                                              |
 | Rust Wallet Adapter      | Framework | 448-OG            | [Link](https://github.com/JamiiDao/SolanaWalletAdapter)                            | A Rust library implementing the wallet-adapter standard with templates for Dioxus, Yew and Sycamore                                    |
 | Solana VS Code Extension | Tool      | Ackee Blockchain  | [Link](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.solana) | First VS Code extension for Solana with real-time security analysis (9 detectors) and Trident fuzz coverage visualization              |
+| Solana Rent & Rug Shield | Tool      | Solana Rent & Rug Shield | [Link](https://rentandrugshield.com)                                               | Non-custodial SPL & Token-2022 empty ATA rent recovery (0x09 CloseAccount) and 11-layer pre-buy anti-rug & Block-0 Sybil scanner (Web, REST, x402 & MCP) |
 
 
 ### Explorers
