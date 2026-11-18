@@ -143,6 +143,7 @@ A comprehensive, factual resource hub for anyone interested in learning about an
 | solana-sdk      | Crate | Anza      | [Link](https://crates.io/crates/solana-sdk)                    | The official Solana SDK to write client-side applications in Rust             |
 | @solana/kit     | SDK   | Anza      | [Link](https://github.com/anza-xyz/kit)                        | The preferred JavaScript/TypeScript SDK for Solana (successor to web3.js 2.x) |
 | @solana/web3.js | SDK   | Anza      | [Link](https://www.npmjs.com/package/@solana/web3.js/v/latest) | Legacy JavaScript client for Solana JSON RPC API (1.x)                        |
+| solana-launch-alerts | Crate | EMERGE | [Link](https://crates.io/crates/solana-launch-alerts) | Verify and parse signed launch-risk alert webhooks for Solana launchpads |
 
 
 ### Dev Tooling
