@@ -262,6 +262,7 @@ More info: [Top Solana Block Explorers (2026)](https://www.helius.dev/blog/top-s
 | Solana Pay Android Example                        | GitHub Repo   | Solana Mobile Team | [Link](https://github.com/solana-mobile/solana-pay-android-sample) | An integration guide and sample for Android wallets on handling Solana Pay URIs generated externally                 |
 | Solana Pay: All You Need to Know                  | Article       | Owen Venter        | [Link](https://www.helius.dev/blog/solana-pay)                     | Solana Pay is a standard protocol and set of reference implementations that enable decentralized payments            |
 | Solana Pay Explained in 100 Seconds               | Video         | Abdullah Raza      | [Link](https://youtu.be/nV6Y8nXS5-U?si=kMU8KVhs-1ONc21K)           | A fun, concise explainer on how Solana Pay works, what it's used for, and why it's awesome                           |
+| Solana & Crypto USDC Invoice Generator | GitHub Repo | Neon Lab | [Link](https://github.com/neonlabtools/solana-usdc-invoice) | A 100% client-side, zero-signup Web3 invoice generator with scannable Solana Pay QR codes (USDC/SOL) and A4 PDF export |
 | Solana Pay Specification                          | Documentation | Anza               | [Link](https://github.com/anza-xyz/solana-pay/blob/master/SPEC.md) | The specification document for Solana Pay                                                                            |
 
 
